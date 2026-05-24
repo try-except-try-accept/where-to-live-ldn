@@ -1,0 +1,7 @@
+Processing 0 councils...
+Output directory: /Users/chris/GitHub/where-to-live-ldn/council_results
+
+
+============================================================
+Total: 0 councils to process
+============================================================

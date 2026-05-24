@@ -1,0 +1,53 @@
+{
+  "Contents": [
+    {
+      "candidate": "Labour",
+      "party": "",
+      "votes": 32
+    },
+    {
+      "candidate": "Green",
+      "party": "",
+      "votes": 19
+    },
+    {
+      "candidate": "Independent",
+      "party": "",
+      "votes": 0
+    }
+  ],
+  "Background": [
+    {
+      "candidate": "Labour",
+      "party": "",
+      "votes": 32
+    },
+    {
+      "candidate": "Green",
+      "party": "",
+      "votes": 19
+    },
+    {
+      "candidate": "Independent",
+      "party": "",
+      "votes": 0
+    }
+  ],
+  "Previous council composition": [
+    {
+      "candidate": "Labour",
+      "party": "",
+      "votes": 32
+    },
+    {
+      "candidate": "Green",
+      "party": "",
+      "votes": 19
+    },
+    {
+      "candidate": "Independent",
+      "party": "",
+      "votes": 0
+    }
+  ]
+}

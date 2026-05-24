@@ -1,0 +1,83 @@
+{
+  "Contents": [
+    {
+      "candidate": "Green",
+      "party": "",
+      "votes": 31
+    },
+    {
+      "candidate": "Labour",
+      "party": "",
+      "votes": 15
+    },
+    {
+      "candidate": "Conservative",
+      "party": "",
+      "votes": 14
+    },
+    {
+      "candidate": "Reform",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "candidate": "Independent",
+      "party": "",
+      "votes": 0
+    }
+  ],
+  "Background": [
+    {
+      "candidate": "Green",
+      "party": "",
+      "votes": 31
+    },
+    {
+      "candidate": "Labour",
+      "party": "",
+      "votes": 15
+    },
+    {
+      "candidate": "Conservative",
+      "party": "",
+      "votes": 14
+    },
+    {
+      "candidate": "Reform",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "candidate": "Independent",
+      "party": "",
+      "votes": 0
+    }
+  ],
+  "Previous council composition": [
+    {
+      "candidate": "Green",
+      "party": "",
+      "votes": 31
+    },
+    {
+      "candidate": "Labour",
+      "party": "",
+      "votes": 15
+    },
+    {
+      "candidate": "Conservative",
+      "party": "",
+      "votes": 14
+    },
+    {
+      "candidate": "Reform",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "candidate": "Independent",
+      "party": "",
+      "votes": 0
+    }
+  ]
+}

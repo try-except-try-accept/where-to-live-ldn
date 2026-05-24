@@ -1,0 +1,180 @@
+#!/usr/bin/env python3
+"""Extract 2026 UK London council election data from Wikipedia."""
+import json, random, re
+from pathlib import Path
+import curl_cffi.requests
+from bs4 import BeautifulSoup
+
+BASE_URL = "https://en.wikipedia.org/wiki/"
+COUNCILS_FILE = Path("london_councils.txt")
+
+INVALID_SECTIONS = [
+    "contents", "background", "history", "election",
+    "previous", "composition", "results summary", "ward results",
+    "electoral process", "council term", "changes since",
+    "by-elections", "affiliation changes", "summary",
+]
+
+def wiki_title(council: str) -> str:
+    return f"2026_{council.replace(' ', '_')}_London_Borough_Council_election"
+
+def fetch(url: str):
+    headers = {
+        "User-Agent": random.choice([
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/115.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:115.0) Gecko/20100101 Firefox/115.0",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15",
+        ]),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+    }
+    try:
+        resp = curl_cffi.requests.get(url, headers=headers, timeout=10, impersonate="chrome")
+        return resp.text, resp.status_code
+    except Exception as e:
+        print(f"Network error: {e}")
+        return "", 0
+
+def find_ward_results_heading(soup):
+    for heading in soup.find_all(re.compile("^h[23]")):
+        if "Ward results" in heading.get_text(strip=True):
+            return heading
+    return None
+
+def parse_council_page(body: str) -> dict:
+    soup = BeautifulSoup(body, "html.parser")
+    data: dict[str, list[dict]] = {}
+    
+    ward_results_heading = find_ward_results_heading(soup)
+    if not ward_results_heading:
+        return data
+    
+    in_ward_results = False
+    for element in soup.find_all(["h2", "h3"]):
+        if element == ward_results_heading:
+            in_ward_results = True
+            continue
+        if not in_ward_results:
+            continue
+        
+        section_name = element.get_text(strip=True).lower()
+        if any(term in section_name for term in INVALID_SECTIONS):
+            continue
+        
+        if element.name != "h3":
+            continue
+        
+        ward = element.get_text(strip=True)
+        ward_lower = ward.lower().strip()
+        if any(term in ward_lower for term in INVALID_SECTIONS):
+            continue
+        if len(ward) < 3:
+            continue
+        
+        table = element.find_next("table", class_="wikitable")
+        if not table:
+            continue
+        
+        header_row = table.find("tr")
+        headers = [th.get_text(strip=True) for th in header_row.find_all(["th", "td"])] if header_row else []
+        
+        if not any("Party" in h for h in headers):
+            continue
+        
+        party_idx = headers.index("Party") if "Party" in headers else 1
+        votes_idx = 2
+        for i, h in enumerate(headers):
+            if "Votes" in h:
+                votes_idx = i
+                break
+        
+        for tr in table.find_all("tr"):
+            ths = tr.find_all("th")
+            tds = tr.find_all("td")
+            
+            if ths and any("Party" in str(t) for t in ths):
+                continue
+            
+            if ths:
+                first_text = ths[0].get_text(strip=True).lower()
+                if any(term in first_text for term in ["majority", "turnout", "swing"]):
+                    continue
+            
+            total_cols = len(ths) + len(tds)
+            if total_cols < 3:
+                continue
+            
+            if ths and len(ths) >= 1:
+                candidate = ths[0].get_text(strip=True)
+            elif tds and len(tds) > 1:
+                candidate = tds[0].get_text(strip=True)
+            else:
+                continue
+            
+            if not candidate or len(candidate) < 2:
+                continue
+            candidate_lower = candidate.lower()
+            if any(term in candidate_lower for term in ["majority", "turnout", "swing"]):
+                continue
+            
+            party = ""
+            for td in tds:
+                if "org" in td.get("class", []) or "Party" in str(td):
+                    party = td.get_text(strip=True).strip()
+                    break
+            if not party and len(tds) > 1:
+                second_text = tds[1].get_text(strip=True).lower()
+                known_parties = ["labour", "conservative", "green", "liberal ", 
+                               "democrat", "reform uk", "independent"]
+                if any(p in second_text for p in known_parties):
+                    party = tds[1].get_text(strip=True).strip()
+            
+            try:
+                if votes_idx < len(tds):
+                    votes_raw = tds[votes_idx].get_text(strip=True).replace(",", "")
+                else:
+                    votes_raw = ""
+                    for td in tds:
+                        txt = td.get_text(strip=True).replace(",", "")
+                        if re.search(r'\d{2,}', txt):
+                            votes_raw = txt
+                            break
+                
+                if not votes_raw:
+                    continue
+                votes = int(re.search(r'\d+', votes_raw).group())
+            except (AttributeError, ValueError):
+                continue
+            
+            data.setdefault(ward, []).append({
+                "candidate": candidate,
+                "party": party,
+                "votes": votes,
+            })
+    
+    return data
+
+if __name__ == "__main__":
+    councils = [line.strip() for line in COUNCILS_FILE.read_text().splitlines() if line.strip()]
+    for council in councils:
+        title = wiki_title(council)
+        url = BASE_URL + title
+        print(f"Processing {council} -> {url}")
+        body, status = fetch(url)
+        if status != 200:
+            print(f"Failed: {url} (status {status})")
+            alt = input(f"Enter URL for '{council}' or blank: ")
+            if alt.strip():
+                alt_body, _ = fetch(alt)
+                safe = re.sub(r"\W+", "_", council)
+                Path(f"{safe}_missing.html").write_text(alt_body, encoding="utf-8")
+                print(f"Saved to {safe}_missing.html")
+            continue
+        data = parse_council_page(body)
+        if data:
+            safe = re.sub(r"\W+", "_", council)
+            fname = f"{safe}_London_Borough_Council_election.json"
+            Path(fname).write_text(json.dumps(data, indent=2), encoding="utf-8")
+            print(f"Wrote {fname}")
+        else:
+            print(f"No data for {url}")

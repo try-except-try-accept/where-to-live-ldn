@@ -1,0 +1,1755 @@
+{
+  "Central Greenford": [
+    {
+      "candidate": "Munir Abbasi",
+      "party": "Labour",
+      "votes": 1254
+    },
+    {
+      "candidate": "Valery Ryan",
+      "party": "Labour",
+      "votes": 1200
+    },
+    {
+      "candidate": "Sanjai Kohli*",
+      "party": "Labour",
+      "votes": 1162
+    },
+    {
+      "candidate": "Benjamin Davies",
+      "party": "Conservative",
+      "votes": 854
+    },
+    {
+      "candidate": "Cathy Frisina",
+      "party": "Conservative",
+      "votes": 785
+    },
+    {
+      "candidate": "Ted Chase",
+      "party": "Green",
+      "votes": 772
+    },
+    {
+      "candidate": "Florence Olden-Chandler",
+      "party": "Green",
+      "votes": 760
+    },
+    {
+      "candidate": "Natalia Cassel",
+      "party": "Reform",
+      "votes": 746
+    },
+    {
+      "candidate": "Peter Smith",
+      "party": "Conservative",
+      "votes": 731
+    },
+    {
+      "candidate": "Bob Little",
+      "party": "Reform",
+      "votes": 668
+    },
+    {
+      "candidate": "Frank Proud",
+      "party": "Green",
+      "votes": 620
+    },
+    {
+      "candidate": "Filomena Strollo",
+      "party": "Reform",
+      "votes": 606
+    },
+    {
+      "candidate": "Matthew Hirst",
+      "party": "Liberal Democrats",
+      "votes": 393
+    },
+    {
+      "candidate": "John William Mitchell",
+      "party": "Liberal Democrats",
+      "votes": 346
+    },
+    {
+      "candidate": "Ian Rex-Hawkes",
+      "party": "Liberal Democrats",
+      "votes": 272
+    },
+    {
+      "candidate": "Haitham Idriss",
+      "party": "Independent",
+      "votes": 210
+    }
+  ],
+  "Dormers Wells": [
+    {
+      "candidate": "Kanwal Bains*",
+      "party": "Labour",
+      "votes": 1563
+    },
+    {
+      "candidate": "Ranjit Dheer*",
+      "party": "Labour",
+      "votes": 1361
+    },
+    {
+      "candidate": "Isabel Owen",
+      "party": "Labour",
+      "votes": 1268
+    },
+    {
+      "candidate": "Annette Dean",
+      "party": "Green",
+      "votes": 759
+    },
+    {
+      "candidate": "Mark Eccleston",
+      "party": "Green",
+      "votes": 692
+    },
+    {
+      "candidate": "Babul Sharker",
+      "party": "Conservative",
+      "votes": 684
+    },
+    {
+      "candidate": "Dolu Khan",
+      "party": "Conservative",
+      "votes": 634
+    },
+    {
+      "candidate": "Md Uddin",
+      "party": "Conservative",
+      "votes": 597
+    },
+    {
+      "candidate": "Alex Beniatian",
+      "party": "Reform",
+      "votes": 470
+    },
+    {
+      "candidate": "David Burvill",
+      "party": "Reform",
+      "votes": 442
+    },
+    {
+      "candidate": "Bob Browning",
+      "party": "Liberal Democrats",
+      "votes": 270
+    },
+    {
+      "candidate": "Oliver Murphy",
+      "party": "Liberal Democrats",
+      "votes": 229
+    },
+    {
+      "candidate": "Mohd Uddin",
+      "party": "Rejoin EU",
+      "votes": 218
+    },
+    {
+      "candidate": "Pat Mellor",
+      "party": "Liberal Democrats",
+      "votes": 207
+    }
+  ],
+  "Ealing Broadway": [
+    {
+      "candidate": "Julian Gallant*",
+      "party": "Conservative",
+      "votes": 1780
+    },
+    {
+      "candidate": "Sean Hanrahan",
+      "party": "Conservative",
+      "votes": 1575
+    },
+    {
+      "candidate": "Adam Keenan",
+      "party": "Liberal Democrats",
+      "votes": 1413
+    },
+    {
+      "candidate": "Seema Kumar*",
+      "party": "Conservative",
+      "votes": 1396
+    },
+    {
+      "candidate": "Francesco Fruzza",
+      "party": "Liberal Democrats",
+      "votes": 1328
+    },
+    {
+      "candidate": "Mandy Lurie",
+      "party": "Liberal Democrats",
+      "votes": 1228
+    },
+    {
+      "candidate": "Freya Summersgill",
+      "party": "Green",
+      "votes": 1016
+    },
+    {
+      "candidate": "Neil Reynolds",
+      "party": "Green",
+      "votes": 933
+    },
+    {
+      "candidate": "Mark Uddin",
+      "party": "Green",
+      "votes": 770
+    },
+    {
+      "candidate": "Alex Norfolk",
+      "party": "Labour",
+      "votes": 704
+    },
+    {
+      "candidate": "Mahdi Imam Murtaza",
+      "party": "Labour",
+      "votes": 636
+    },
+    {
+      "candidate": "Iram Woolley",
+      "party": "Labour",
+      "votes": 598
+    },
+    {
+      "candidate": "David Hounsell",
+      "party": "Reform",
+      "votes": 460
+    },
+    {
+      "candidate": "Georgie Louise Hare",
+      "party": "Rejoin EU",
+      "votes": 235
+    }
+  ],
+  "Ealing Common": [
+    {
+      "candidate": "Jon Ball*",
+      "party": "Liberal Democrats",
+      "votes": 2227
+    },
+    {
+      "candidate": "Connie Hersch*",
+      "party": "Liberal Democrats",
+      "votes": 2044
+    },
+    {
+      "candidate": "Lakhbir Singh",
+      "party": "Liberal Democrats",
+      "votes": 1643
+    },
+    {
+      "candidate": "Lewis Garland",
+      "party": "Green",
+      "votes": 1029
+    },
+    {
+      "candidate": "Alex Vines",
+      "party": "Green",
+      "votes": 984
+    },
+    {
+      "candidate": "Keith Broomfield",
+      "party": "Labour",
+      "votes": 921
+    },
+    {
+      "candidate": "Maxim Bagdasarian",
+      "party": "Labour",
+      "votes": 873
+    },
+    {
+      "candidate": "Alexandru-Andrei Abutoaiei",
+      "party": "Green",
+      "votes": 842
+    },
+    {
+      "candidate": "Mohinder Mihda",
+      "party": "Labour",
+      "votes": 816
+    },
+    {
+      "candidate": "John Cowing",
+      "party": "Conservative",
+      "votes": 720
+    },
+    {
+      "candidate": "Samuel Gibb",
+      "party": "Conservative",
+      "votes": 634
+    },
+    {
+      "candidate": "Roz Reece",
+      "party": "Conservative",
+      "votes": 627
+    },
+    {
+      "candidate": "Simon Ludgate",
+      "party": "Reform",
+      "votes": 560
+    },
+    {
+      "candidate": "Martin Shippey",
+      "party": "Reform",
+      "votes": 542
+    },
+    {
+      "candidate": "Jai Dhawan",
+      "party": "Reform",
+      "votes": 523
+    }
+  ],
+  "East Acton": [
+    {
+      "candidate": "Stephen Donnelly*",
+      "party": "Labour",
+      "votes": 1229
+    },
+    {
+      "candidate": "Rabia Nasimi",
+      "party": "Labour",
+      "votes": 1207
+    },
+    {
+      "candidate": "Hitesh Tailor*",
+      "party": "Labour",
+      "votes": 1123
+    },
+    {
+      "candidate": "Sam Diamond",
+      "party": "Green",
+      "votes": 1055
+    },
+    {
+      "candidate": "Suzanne Fernandes",
+      "party": "Green",
+      "votes": 1035
+    },
+    {
+      "candidate": "Marijn van de Geer",
+      "party": "Green",
+      "votes": 950
+    },
+    {
+      "candidate": "Kate Crawford*",
+      "party": "Liberal Democrats",
+      "votes": 838
+    },
+    {
+      "candidate": "Abdi Ahmed",
+      "party": "Liberal Democrats",
+      "votes": 678
+    },
+    {
+      "candidate": "Benedict Cross",
+      "party": "Liberal Democrats",
+      "votes": 586
+    },
+    {
+      "candidate": "Richard Arnold",
+      "party": "Conservative",
+      "votes": 529
+    },
+    {
+      "candidate": "Jeremy Bradshaw",
+      "party": "Reform",
+      "votes": 511
+    },
+    {
+      "candidate": "Calvin Chan",
+      "party": "Conservative",
+      "votes": 473
+    },
+    {
+      "candidate": "Patrick Kennedy",
+      "party": "Conservative",
+      "votes": 494
+    },
+    {
+      "candidate": "Michele Farruggio",
+      "party": "Reform",
+      "votes": 468
+    },
+    {
+      "candidate": "Djivan Souren",
+      "party": "Reform",
+      "votes": 413
+    },
+    {
+      "candidate": "Amirah Abrahams",
+      "party": "TUSC",
+      "votes": 98
+    }
+  ],
+  "Greenford Broadway": [
+    {
+      "candidate": "Anthony Kelly",
+      "party": "Labour",
+      "votes": 1363
+    },
+    {
+      "candidate": "Stephanie Ajayi",
+      "party": "Labour",
+      "votes": 1357
+    },
+    {
+      "candidate": "Harbhajan Dheer*",
+      "party": "Labour",
+      "votes": 1176
+    },
+    {
+      "candidate": "Terri Beniatian",
+      "party": "Reform",
+      "votes": 907
+    },
+    {
+      "candidate": "Joanna Fleck",
+      "party": "Green",
+      "votes": 889
+    },
+    {
+      "candidate": "Matt Chadburn",
+      "party": "Green",
+      "votes": 805
+    },
+    {
+      "candidate": "Sanjay Pote",
+      "party": "Reform",
+      "votes": 777
+    },
+    {
+      "candidate": "Jyoti Satam",
+      "party": "Reform",
+      "votes": 732
+    },
+    {
+      "candidate": "Peter Edwards",
+      "party": "Conservative",
+      "votes": 711
+    },
+    {
+      "candidate": "Predrag Babic",
+      "party": "Conservative",
+      "votes": 653
+    },
+    {
+      "candidate": "Sean Keeley",
+      "party": "Conservative",
+      "votes": 645
+    },
+    {
+      "candidate": "Gillian Rowley",
+      "party": "Liberal Democrats",
+      "votes": 283
+    },
+    {
+      "candidate": "Anna Salaman",
+      "party": "Liberal Democrats",
+      "votes": 234
+    },
+    {
+      "candidate": "Raj Thanga",
+      "party": "Rejoin EU",
+      "votes": 212
+    },
+    {
+      "candidate": "Tal Thomas",
+      "party": "Liberal Democrats",
+      "votes": 180
+    },
+    {
+      "candidate": "Dara Fitzgerald",
+      "party": "TUSC",
+      "votes": 87
+    }
+  ],
+  "Hanger Hill": [
+    {
+      "candidate": "Jonathan Oxley*",
+      "party": "Liberal Democrats",
+      "votes": 1805
+    },
+    {
+      "candidate": "Athena Zissimos*",
+      "party": "Liberal Democrats",
+      "votes": 1764
+    },
+    {
+      "candidate": "Mark Sanders",
+      "party": "Liberal Democrats",
+      "votes": 1639
+    },
+    {
+      "candidate": "Edward Bailey",
+      "party": "Conservative",
+      "votes": 1103
+    },
+    {
+      "candidate": "Kate Crossland",
+      "party": "Green",
+      "votes": 1017
+    },
+    {
+      "candidate": "Anthony Young",
+      "party": "Conservative",
+      "votes": 997
+    },
+    {
+      "candidate": "Dea Omari",
+      "party": "Conservative",
+      "votes": 810
+    },
+    {
+      "candidate": "Hadi Khorsandi",
+      "party": "Green",
+      "votes": 770
+    },
+    {
+      "candidate": "Ben Fryer",
+      "party": "Green",
+      "votes": 722
+    },
+    {
+      "candidate": "Catherine Ann Wallace",
+      "party": "Labour",
+      "votes": 570
+    },
+    {
+      "candidate": "David John Lines",
+      "party": "Labour",
+      "votes": 556
+    },
+    {
+      "candidate": "Michael Minkov",
+      "party": "Reform",
+      "votes": 537
+    },
+    {
+      "candidate": "Deshal Raja",
+      "party": "Reform",
+      "votes": 487
+    },
+    {
+      "candidate": "Cianan John Whelan",
+      "party": "Labour",
+      "votes": 451
+    },
+    {
+      "candidate": "Peter Mark Ward",
+      "party": "Rejoin EU",
+      "votes": 175
+    },
+    {
+      "candidate": "Stephen Andrew Balogh",
+      "party": "SDP",
+      "votes": 142
+    }
+  ],
+  "Hanwell Broadway": [
+    {
+      "candidate": "Clare Welsby",
+      "party": "Green",
+      "votes": 2050
+    },
+    {
+      "candidate": "Natalia Kubica",
+      "party": "Green",
+      "votes": 2001
+    },
+    {
+      "candidate": "Andrew Walkley",
+      "party": "Green",
+      "votes": 1924
+    },
+    {
+      "candidate": "Polly Knewstub*",
+      "party": "Labour",
+      "votes": 1773
+    },
+    {
+      "candidate": "Yoel Gordon*",
+      "party": "Labour",
+      "votes": 1621
+    },
+    {
+      "candidate": "Alexander Ewart Dismore",
+      "party": "Labour",
+      "votes": 1594
+    },
+    {
+      "candidate": "Reg Anderson",
+      "party": "Reform",
+      "votes": 627
+    },
+    {
+      "candidate": "Jaroslaw Andrysiak",
+      "party": "Reform",
+      "votes": 601
+    },
+    {
+      "candidate": "Salim Izza",
+      "party": "Reform",
+      "votes": 491
+    },
+    {
+      "candidate": "Richard Reade",
+      "party": "Conservative",
+      "votes": 458
+    },
+    {
+      "candidate": "Edward Cook",
+      "party": "Liberal Democrats",
+      "votes": 452
+    },
+    {
+      "candidate": "Edward Iredale",
+      "party": "Conservative",
+      "votes": 445
+    },
+    {
+      "candidate": "Leslie Glancy",
+      "party": "Liberal Democrats",
+      "votes": 409
+    },
+    {
+      "candidate": "Hussein Ali Dima",
+      "party": "Conservative",
+      "votes": 392
+    },
+    {
+      "candidate": "Stephen O'Shea",
+      "party": "Liberal Democrats",
+      "votes": 386
+    },
+    {
+      "candidate": "Taslema Akhter",
+      "party": "Rejoin EU",
+      "votes": 260
+    }
+  ],
+  "Lady Margaret": [
+    {
+      "candidate": "Praveen Anand",
+      "party": "Labour",
+      "votes": 1744
+    },
+    {
+      "candidate": "Karam Mohan*",
+      "party": "Labour",
+      "votes": 1594
+    },
+    {
+      "candidate": "Monica Hamidi[a]",
+      "party": "Labour",
+      "votes": 1551
+    },
+    {
+      "candidate": "Nicholas Chapman",
+      "party": "Green",
+      "votes": 1014
+    },
+    {
+      "candidate": "Olivia Law-Zygaldo",
+      "party": "Green",
+      "votes": 863
+    },
+    {
+      "candidate": "Gurpreet Singh Sahota",
+      "party": "Independent",
+      "votes": 745
+    },
+    {
+      "candidate": "Gulshan Ahluwalia",
+      "party": "Reform",
+      "votes": 704
+    },
+    {
+      "candidate": "Robert Balaam",
+      "party": "Reform",
+      "votes": 642
+    },
+    {
+      "candidate": "Rafiq Islam",
+      "party": "Conservative",
+      "votes": 612
+    },
+    {
+      "candidate": "Nazrul Islam",
+      "party": "Conservative",
+      "votes": 570
+    },
+    {
+      "candidate": "Abul Kalam Azad Sarker",
+      "party": "Conservative",
+      "votes": 536
+    },
+    {
+      "candidate": "Loreta Alac",
+      "party": "Liberal Democrats",
+      "votes": 396
+    },
+    {
+      "candidate": "John Gower",
+      "party": "Liberal Democrats",
+      "votes": 386
+    },
+    {
+      "candidate": "Philip Wells",
+      "party": "Liberal Democrats",
+      "votes": 355
+    }
+  ],
+  "North Acton": [
+    {
+      "candidate": "Blerina Hashani*",
+      "party": "Labour",
+      "votes": 1356
+    },
+    {
+      "candidate": "Simon Anthony",
+      "party": "Green",
+      "votes": 1298
+    },
+    {
+      "candidate": "Hodan Haili*",
+      "party": "Labour",
+      "votes": 1296
+    },
+    {
+      "candidate": "Guneet Singh Malik",
+      "party": "Labour",
+      "votes": 1186
+    },
+    {
+      "candidate": "Maciej Pawlik",
+      "party": "Green",
+      "votes": 1051
+    },
+    {
+      "candidate": "Nasim Nur",
+      "party": "Green",
+      "votes": 1001
+    },
+    {
+      "candidate": "Sarah Beament",
+      "party": "Conservative",
+      "votes": 592
+    },
+    {
+      "candidate": "Sally Gorman",
+      "party": "Conservative",
+      "votes": 551
+    },
+    {
+      "candidate": "Bob Baker",
+      "party": "Reform",
+      "votes": 530
+    },
+    {
+      "candidate": "Simon Quince",
+      "party": "Liberal Democrats",
+      "votes": 511
+    },
+    {
+      "candidate": "Ann Lazarow",
+      "party": "Conservative",
+      "votes": 502
+    },
+    {
+      "candidate": "Caroline Fanneran",
+      "party": "Reform",
+      "votes": 496
+    },
+    {
+      "candidate": "Alan Warr",
+      "party": "Reform",
+      "votes": 449
+    },
+    {
+      "candidate": "Alan Whelan",
+      "party": "Liberal Democrats",
+      "votes": 396
+    },
+    {
+      "candidate": "Patrick Salaun",
+      "party": "Liberal Democrats",
+      "votes": 386
+    },
+    {
+      "candidate": "Kamlesh Mehta",
+      "party": "Rejoin EU",
+      "votes": 201
+    },
+    {
+      "candidate": "David Lawrence Hofman",
+      "party": "TUSC",
+      "votes": 83
+    }
+  ],
+  "North Greenford": [
+    {
+      "candidate": "Flora Macloughlin",
+      "party": "Conservative",
+      "votes": 1925
+    },
+    {
+      "candidate": "Kristian Mower",
+      "party": "Conservative",
+      "votes": 1773
+    },
+    {
+      "candidate": "Ajay Roy",
+      "party": "Conservative",
+      "votes": 1748
+    },
+    {
+      "candidate": "Javaid Iqbal*",
+      "party": "Labour Co-op",
+      "votes": 1487
+    },
+    {
+      "candidate": "Amarjit Jammu*",
+      "party": "Labour Co-op",
+      "votes": 1331
+    },
+    {
+      "candidate": "Shital Manro*",
+      "party": "Labour Co-op",
+      "votes": 1323
+    },
+    {
+      "candidate": "Ryan Allain",
+      "party": "Green",
+      "votes": 1106
+    },
+    {
+      "candidate": "Korhan Tunca",
+      "party": "Green",
+      "votes": 874
+    },
+    {
+      "candidate": "Monika Williams",
+      "party": "Reform",
+      "votes": 559
+    },
+    {
+      "candidate": "Jonathan Notley",
+      "party": "Reform",
+      "votes": 554
+    },
+    {
+      "candidate": "Jim Doona",
+      "party": "Liberal Democrats",
+      "votes": 386
+    },
+    {
+      "candidate": "Bex Scott",
+      "party": "Liberal Democrats",
+      "votes": 323
+    },
+    {
+      "candidate": "John Gauss",
+      "party": "Liberal Democrats",
+      "votes": 307
+    }
+  ],
+  "North Hanwell": [
+    {
+      "candidate": "Louise Brett*",
+      "party": "Labour",
+      "votes": 1803
+    },
+    {
+      "candidate": "Ray Wall*",
+      "party": "Labour",
+      "votes": 1611
+    },
+    {
+      "candidate": "Lauren Wall",
+      "party": "Labour",
+      "votes": 1600
+    },
+    {
+      "candidate": "Dominic Kirkbride",
+      "party": "Green",
+      "votes": 1478
+    },
+    {
+      "candidate": "Tegan Millard",
+      "party": "Green",
+      "votes": 1377
+    },
+    {
+      "candidate": "John Rolt",
+      "party": "Green",
+      "votes": 1226
+    },
+    {
+      "candidate": "Ian Potts",
+      "party": "Conservative",
+      "votes": 738
+    },
+    {
+      "candidate": "Andrew Evzona",
+      "party": "Reform",
+      "votes": 716
+    },
+    {
+      "candidate": "Felicity Georghiades",
+      "party": "Reform",
+      "votes": 677
+    },
+    {
+      "candidate": "Kamran Ali",
+      "party": "Conservative",
+      "votes": 586
+    },
+    {
+      "candidate": "Zoe Horwich",
+      "party": "Liberal Democrats",
+      "votes": 509
+    },
+    {
+      "candidate": "Minoo Sullivan",
+      "party": "Conservative",
+      "votes": 485
+    },
+    {
+      "candidate": "Geoffrey Berg",
+      "party": "Liberal Democrats",
+      "votes": 442
+    },
+    {
+      "candidate": "Martin Williams",
+      "party": "Liberal Democrats",
+      "votes": 412
+    },
+    {
+      "candidate": "Tony Gill",
+      "party": "TUSC",
+      "votes": 77
+    }
+  ],
+  "Northfield": [
+    {
+      "candidate": "Paul Driscoll*",
+      "party": "Labour",
+      "votes": 1886
+    },
+    {
+      "candidate": "Sinead Whelan",
+      "party": "Labour",
+      "votes": 1762
+    },
+    {
+      "candidate": "Ian Kingston*",
+      "party": "Labour",
+      "votes": 1639
+    },
+    {
+      "candidate": "Nikki Daniel",
+      "party": "Green",
+      "votes": 1371
+    },
+    {
+      "candidate": "Ruby Smith",
+      "party": "Green",
+      "votes": 1263
+    },
+    {
+      "candidate": "Ian Douglas",
+      "party": "Green",
+      "votes": 1129
+    },
+    {
+      "candidate": "Mark Andrews",
+      "party": "Liberal Democrats",
+      "votes": 960
+    },
+    {
+      "candidate": "Theresa Mullins",
+      "party": "Conservative",
+      "votes": 931
+    },
+    {
+      "candidate": "Arthur Alexander",
+      "party": "Conservative",
+      "votes": 912
+    },
+    {
+      "candidate": "Nigel Bakhai",
+      "party": "Liberal Democrats",
+      "votes": 829
+    },
+    {
+      "candidate": "Anita Kapoor",
+      "party": "Conservative",
+      "votes": 819
+    },
+    {
+      "candidate": "Robert Hall",
+      "party": "Liberal Democrats",
+      "votes": 760
+    },
+    {
+      "candidate": "Nigel Bird",
+      "party": "Reform",
+      "votes": 517
+    },
+    {
+      "candidate": "Karen McFall",
+      "party": "Reform",
+      "votes": 490
+    },
+    {
+      "candidate": "Joshue Lemontagnard",
+      "party": "Reform",
+      "votes": 446
+    }
+  ],
+  "Northolt Mandeville": [
+    {
+      "candidate": "Andrew Bailey",
+      "party": "Labour",
+      "votes": 1779
+    },
+    {
+      "candidate": "Miriam Rice*",
+      "party": "Labour",
+      "votes": 1452
+    },
+    {
+      "candidate": "Dominic Moffitt*",
+      "party": "Labour",
+      "votes": 1387
+    },
+    {
+      "candidate": "Katy Barton",
+      "party": "Green",
+      "votes": 931
+    },
+    {
+      "candidate": "Donal de Blacam",
+      "party": "Reform",
+      "votes": 915
+    },
+    {
+      "candidate": "Conrad Lewandowski",
+      "party": "Reform",
+      "votes": 869
+    },
+    {
+      "candidate": "Marco Manassero",
+      "party": "Reform",
+      "votes": 818
+    },
+    {
+      "candidate": "Beth McCormack",
+      "party": "Green",
+      "votes": 812
+    },
+    {
+      "candidate": "James Bremen",
+      "party": "Conservative",
+      "votes": 723
+    },
+    {
+      "candidate": "Andrew Maddox",
+      "party": "Conservative",
+      "votes": 671
+    },
+    {
+      "candidate": "Elliott Malik",
+      "party": "Conservative",
+      "votes": 584
+    },
+    {
+      "candidate": "Lawrence Aggleton",
+      "party": "Liberal Democrats",
+      "votes": 429
+    },
+    {
+      "candidate": "Leslie Hurst",
+      "party": "Liberal Democrats",
+      "votes": 388
+    },
+    {
+      "candidate": "Jim McWilliams",
+      "party": "Liberal Democrats",
+      "votes": 321
+    }
+  ],
+  "Northolt West End": [
+    {
+      "candidate": "Atlyn Forde",
+      "party": "Labour",
+      "votes": 1568
+    },
+    {
+      "candidate": "Bassam Mahfouz*",
+      "party": "Labour",
+      "votes": 1490
+    },
+    {
+      "candidate": "Dee Martin*",
+      "party": "Labour",
+      "votes": 1369
+    },
+    {
+      "candidate": "Ryan Jendoubi",
+      "party": "Green",
+      "votes": 866
+    },
+    {
+      "candidate": "Lee Marriott",
+      "party": "Reform",
+      "votes": 835
+    },
+    {
+      "candidate": "Maxine Williams",
+      "party": "Reform",
+      "votes": 793
+    },
+    {
+      "candidate": "Seb Wallace",
+      "party": "Reform",
+      "votes": 787
+    },
+    {
+      "candidate": "Fabio Conti",
+      "party": "Conservative",
+      "votes": 630
+    },
+    {
+      "candidate": "Janet Young",
+      "party": "Conservative",
+      "votes": 546
+    },
+    {
+      "candidate": "Diva Nazari",
+      "party": "Conservative",
+      "votes": 458
+    },
+    {
+      "candidate": "Lee Horwich",
+      "party": "Liberal Democrats",
+      "votes": 309
+    },
+    {
+      "candidate": "Milena Izmirlieva",
+      "party": "Liberal Democrats",
+      "votes": 291
+    },
+    {
+      "candidate": "Tony Miller",
+      "party": "Liberal Democrats",
+      "votes": 272
+    }
+  ],
+  "Norwood Green": [
+    {
+      "candidate": "John Martin",
+      "party": "Independent",
+      "votes": 1396
+    },
+    {
+      "candidate": "Jags Sanghera",
+      "party": "Labour",
+      "votes": 1275
+    },
+    {
+      "candidate": "Ghulam Murtaza",
+      "party": "Labour",
+      "votes": 1255
+    },
+    {
+      "candidate": "Claire Tighe[b]",
+      "party": "Labour",
+      "votes": 1234
+    },
+    {
+      "candidate": "Michal Solski",
+      "party": "Green",
+      "votes": 893
+    },
+    {
+      "candidate": "George Lafford",
+      "party": "Conservative",
+      "votes": 658
+    },
+    {
+      "candidate": "Gunshibha Wadwa",
+      "party": "Conservative",
+      "votes": 630
+    },
+    {
+      "candidate": "David Burgess",
+      "party": "Reform",
+      "votes": 516
+    },
+    {
+      "candidate": "Aminur Ony",
+      "party": "Conservative",
+      "votes": 468
+    },
+    {
+      "candidate": "Olu Ogunsanlu",
+      "party": "Reform",
+      "votes": 358
+    },
+    {
+      "candidate": "Rehana Ali",
+      "party": "Liberal Democrats",
+      "votes": 340
+    },
+    {
+      "candidate": "Susan Henderson",
+      "party": "Liberal Democrats",
+      "votes": 316
+    },
+    {
+      "candidate": "Michael Pidoux",
+      "party": "Liberal Democrats",
+      "votes": 206
+    }
+  ],
+  "Perivale": [
+    {
+      "candidate": "Munir Ahmed*",
+      "party": "Labour",
+      "votes": 1704
+    },
+    {
+      "candidate": "Tariq Mahmood*",
+      "party": "Labour",
+      "votes": 1660
+    },
+    {
+      "candidate": "Charan Sharma*",
+      "party": "Labour",
+      "votes": 1448
+    },
+    {
+      "candidate": "Juliana Niederwanger",
+      "party": "Green",
+      "votes": 1121
+    },
+    {
+      "candidate": "Ian Proud",
+      "party": "Conservative",
+      "votes": 1016
+    },
+    {
+      "candidate": "Vlod Barchuk",
+      "party": "Conservative",
+      "votes": 979
+    },
+    {
+      "candidate": "Zek\u00e9l Atherley",
+      "party": "Conservative",
+      "votes": 945
+    },
+    {
+      "candidate": "Marie Marjolin",
+      "party": "Reform",
+      "votes": 688
+    },
+    {
+      "candidate": "Gabor Horvath",
+      "party": "Reform",
+      "votes": 672
+    },
+    {
+      "candidate": "Jedidiah Sivapalan",
+      "party": "Reform",
+      "votes": 615
+    },
+    {
+      "candidate": "Carl Brooks",
+      "party": "Liberal Democrats",
+      "votes": 503
+    },
+    {
+      "candidate": "Sarah Seton-Rogers",
+      "party": "Liberal Democrats",
+      "votes": 456
+    },
+    {
+      "candidate": "Clive Davis",
+      "party": "Liberal Democrats",
+      "votes": 430
+    }
+  ],
+  "Pitshanger": [
+    {
+      "candidate": "Rima Baaklini*",
+      "party": "Labour",
+      "votes": 1836
+    },
+    {
+      "candidate": "Ben Wesson*",
+      "party": "Labour",
+      "votes": 1579
+    },
+    {
+      "candidate": "Shaira Karimi",
+      "party": "Labour",
+      "votes": 1568
+    },
+    {
+      "candidate": "Will Copping",
+      "party": "Conservative",
+      "votes": 1414
+    },
+    {
+      "candidate": "Grace Hunter",
+      "party": "Conservative",
+      "votes": 1395
+    },
+    {
+      "candidate": "Liz Paice",
+      "party": "Conservative",
+      "votes": 1307
+    },
+    {
+      "candidate": "Alex James",
+      "party": "Green",
+      "votes": 1097
+    },
+    {
+      "candidate": "Emma Powell",
+      "party": "Green",
+      "votes": 1025
+    },
+    {
+      "candidate": "Sarah McCartney",
+      "party": "Green",
+      "votes": 1020
+    },
+    {
+      "candidate": "Francesco Fruzza",
+      "party": "Liberal Democrats",
+      "votes": 627
+    },
+    {
+      "candidate": "Rod Nathan",
+      "party": "Liberal Democrats",
+      "votes": 614
+    },
+    {
+      "candidate": "Will Calito",
+      "party": "Reform",
+      "votes": 536
+    },
+    {
+      "candidate": "Humaira Sanders",
+      "party": "Liberal Democrats",
+      "votes": 499
+    },
+    {
+      "candidate": "Chris Lumb",
+      "party": "Reform",
+      "votes": 493
+    },
+    {
+      "candidate": "Kas Ullah",
+      "party": "Reform",
+      "votes": 407
+    }
+  ],
+  "South Acton": [
+    {
+      "candidate": "Katie Douglas*",
+      "party": "Labour",
+      "votes": 1469
+    },
+    {
+      "candidate": "Yvonne Johnson*",
+      "party": "Labour",
+      "votes": 1306
+    },
+    {
+      "candidate": "Husam Alharahsheh",
+      "party": "Green",
+      "votes": 1239
+    },
+    {
+      "candidate": "Christina Meiklejohn",
+      "party": "Green",
+      "votes": 1195
+    },
+    {
+      "candidate": "Gareth Shaw",
+      "party": "Labour",
+      "votes": 1128
+    },
+    {
+      "candidate": "Elyes Rezgui",
+      "party": "Green",
+      "votes": 957
+    },
+    {
+      "candidate": "Antoni Bialek",
+      "party": "Conservative",
+      "votes": 550
+    },
+    {
+      "candidate": "Luke Hearn",
+      "party": "Liberal Democrats",
+      "votes": 510
+    },
+    {
+      "candidate": "Margaret Joachim",
+      "party": "Liberal Democrats",
+      "votes": 479
+    },
+    {
+      "candidate": "Stephen Peach",
+      "party": "Conservative",
+      "votes": 479
+    },
+    {
+      "candidate": "Anna Grayson-Morley",
+      "party": "Reform",
+      "votes": 454
+    },
+    {
+      "candidate": "Anura Keppetipola",
+      "party": "Conservative",
+      "votes": 446
+    },
+    {
+      "candidate": "Stephen Jewell",
+      "party": "Reform",
+      "votes": 432
+    },
+    {
+      "candidate": "Nicholas Rees",
+      "party": "Reform",
+      "votes": 407
+    },
+    {
+      "candidate": "Peter Roche",
+      "party": "Liberal Democrats",
+      "votes": 391
+    }
+  ],
+  "Southall Broadway": [
+    {
+      "candidate": "Shahbaz Ahmed",
+      "party": "Labour",
+      "votes": 1079
+    },
+    {
+      "candidate": "Kamaljit Nagpal",
+      "party": "Labour",
+      "votes": 1043
+    },
+    {
+      "candidate": "Darshan Bhinder",
+      "party": "Conservative",
+      "votes": 768
+    },
+    {
+      "candidate": "Mohd Miah",
+      "party": "Conservative",
+      "votes": 642
+    },
+    {
+      "candidate": "Rowan Beentje",
+      "party": "Green",
+      "votes": 453
+    },
+    {
+      "candidate": "Sheung-yuen Lee",
+      "party": "Reform",
+      "votes": 254
+    },
+    {
+      "candidate": "Robin Bettridge",
+      "party": "Liberal Democrats",
+      "votes": 204
+    },
+    {
+      "candidate": "Mo Latif",
+      "party": "Reform",
+      "votes": 197
+    },
+    {
+      "candidate": "David Zerdin",
+      "party": "Liberal Democrats",
+      "votes": 120
+    }
+  ],
+  "Southall Green": [
+    {
+      "candidate": "Jasbir Anand",
+      "party": "Labour",
+      "votes": 1789
+    },
+    {
+      "candidate": "Kamaljit Dhindsa",
+      "party": "Labour",
+      "votes": 1666
+    },
+    {
+      "candidate": "Peter Mason",
+      "party": "Labour",
+      "votes": 1596
+    },
+    {
+      "candidate": "Sabikun Nahar",
+      "party": "Conservative",
+      "votes": 624
+    },
+    {
+      "candidate": "Mohammed Jashim Uddin",
+      "party": "Conservative",
+      "votes": 620
+    },
+    {
+      "candidate": "Liza Halim",
+      "party": "Green",
+      "votes": 554
+    },
+    {
+      "candidate": "Khandaker Rahman",
+      "party": "Conservative",
+      "votes": 536
+    },
+    {
+      "candidate": "Robert Harwood",
+      "party": "Reform",
+      "votes": 395
+    },
+    {
+      "candidate": "Kamaljit Tambar",
+      "party": "Reform",
+      "votes": 290
+    },
+    {
+      "candidate": "Horatiu Ilie",
+      "party": "Reform",
+      "votes": 275
+    },
+    {
+      "candidate": "Swaran Padda",
+      "party": "Independent",
+      "votes": 240
+    },
+    {
+      "candidate": "Susan Kendrick",
+      "party": "Liberal Democrats",
+      "votes": 221
+    },
+    {
+      "candidate": "Derek Groen",
+      "party": "Liberal Democrats",
+      "votes": 207
+    },
+    {
+      "candidate": "Rusi Dalal",
+      "party": "Liberal Democrats",
+      "votes": 161
+    }
+  ],
+  "Southall West": [
+    {
+      "candidate": "Kim Nagpal",
+      "party": "Labour",
+      "votes": 819
+    },
+    {
+      "candidate": "Faduma Mohamed",
+      "party": "Labour",
+      "votes": 740
+    },
+    {
+      "candidate": "Md Feroz Khan",
+      "party": "Conservative",
+      "votes": 550
+    },
+    {
+      "candidate": "Mohammad Miah",
+      "party": "Conservative",
+      "votes": 486
+    },
+    {
+      "candidate": "Gurpal Kular",
+      "party": "Green",
+      "votes": 415
+    },
+    {
+      "candidate": "Steve Johnston",
+      "party": "Reform",
+      "votes": 179
+    },
+    {
+      "candidate": "Alison Cross",
+      "party": "Liberal Democrats",
+      "votes": 136
+    },
+    {
+      "candidate": "Zeljko Leventic",
+      "party": "Reform",
+      "votes": 122
+    },
+    {
+      "candidate": "Roger Davies",
+      "party": "Liberal Democrats",
+      "votes": 108
+    }
+  ],
+  "Southfield": [
+    {
+      "candidate": "Gary Busuttil",
+      "party": "Liberal Democrats",
+      "votes": 2587
+    },
+    {
+      "candidate": "Gary Malcolm",
+      "party": "Liberal Democrats",
+      "votes": 2567
+    },
+    {
+      "candidate": "Andrew Steed",
+      "party": "Liberal Democrats",
+      "votes": 2488
+    },
+    {
+      "candidate": "Laura Darwish",
+      "party": "Green",
+      "votes": 1181
+    },
+    {
+      "candidate": "Mike Landon",
+      "party": "Green",
+      "votes": 1035
+    },
+    {
+      "candidate": "Ayomilekan Adegunwa",
+      "party": "Labour",
+      "votes": 859
+    },
+    {
+      "candidate": "Dean Gilligan",
+      "party": "Labour",
+      "votes": 825
+    },
+    {
+      "candidate": "Jeannie Okikiolu",
+      "party": "Labour",
+      "votes": 794
+    },
+    {
+      "candidate": "Chris Brown",
+      "party": "Conservative",
+      "votes": 768
+    },
+    {
+      "candidate": "Charlotte Duthie",
+      "party": "Conservative",
+      "votes": 704
+    },
+    {
+      "candidate": "Darryll Coates",
+      "party": "Conservative",
+      "votes": 657
+    },
+    {
+      "candidate": "Elaine Jelly",
+      "party": "Reform",
+      "votes": 465
+    },
+    {
+      "candidate": "Matthew Martin",
+      "party": "Reform",
+      "votes": 450
+    },
+    {
+      "candidate": "Tom Vanson",
+      "party": "Reform",
+      "votes": 425
+    },
+    {
+      "candidate": "Helen Pattison",
+      "party": "TUSC",
+      "votes": 129
+    }
+  ],
+  "Walpole": [
+    {
+      "candidate": "Matt Mellor",
+      "party": "Liberal Democrats",
+      "votes": 2201
+    },
+    {
+      "candidate": "Will Francis",
+      "party": "Liberal Democrats",
+      "votes": 2079
+    },
+    {
+      "candidate": "Ksenia Maximova",
+      "party": "Liberal Democrats",
+      "votes": 1924
+    },
+    {
+      "candidate": "Catherine Fitzgibbon",
+      "party": "Labour",
+      "votes": 1428
+    },
+    {
+      "candidate": "Grace Barbara Quansah",
+      "party": "Labour",
+      "votes": 1307
+    },
+    {
+      "candidate": "Binda Rai",
+      "party": "Labour",
+      "votes": 1235
+    },
+    {
+      "candidate": "Barry Greenan",
+      "party": "Green",
+      "votes": 1095
+    },
+    {
+      "candidate": "Robin Gutch",
+      "party": "Green",
+      "votes": 1083
+    },
+    {
+      "candidate": "Tom Matthews",
+      "party": "Green",
+      "votes": 1048
+    },
+    {
+      "candidate": "Isobel Grant",
+      "party": "Conservative",
+      "votes": 726
+    },
+    {
+      "candidate": "Brian Coe",
+      "party": "Reform",
+      "votes": 502
+    },
+    {
+      "candidate": "Marian Glynn",
+      "party": "Reform",
+      "votes": 462
+    },
+    {
+      "candidate": "Anu Khela",
+      "party": "Conservative",
+      "votes": 449
+    },
+    {
+      "candidate": "Shanuk Mediwaka",
+      "party": "Conservative",
+      "votes": 393
+    }
+  ]
+}

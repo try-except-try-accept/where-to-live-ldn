@@ -1,0 +1,1641 @@
+{
+  "Aldborough": [
+    {
+      "candidate": "Kam Rai*",
+      "party": "Labour",
+      "votes": 1874
+    },
+    {
+      "candidate": "Jyotsna  Islam*",
+      "party": "Labour",
+      "votes": 1729
+    },
+    {
+      "candidate": "Lebo Phakoe*",
+      "party": "Labour",
+      "votes": 1646
+    },
+    {
+      "candidate": "Rahul Mahajan",
+      "party": "Conservative",
+      "votes": 809
+    },
+    {
+      "candidate": "Sara Kassam",
+      "party": "Green",
+      "votes": 790
+    },
+    {
+      "candidate": "Ian Caswell",
+      "party": "Conservative",
+      "votes": 751
+    },
+    {
+      "candidate": "Savita Sharma",
+      "party": "Conservative",
+      "votes": 732
+    },
+    {
+      "candidate": "Alison  Wood",
+      "party": "Green",
+      "votes": 715
+    },
+    {
+      "candidate": "Zahrah Awaleh",
+      "party": "Redbridge Ind.",
+      "votes": 631
+    },
+    {
+      "candidate": "Dhenesh Ramanathan",
+      "party": "Reform",
+      "votes": 564
+    },
+    {
+      "candidate": "Alison Jay",
+      "party": "Reform",
+      "votes": 562
+    },
+    {
+      "candidate": "Shahana Mashrur",
+      "party": "Reform",
+      "votes": 458
+    },
+    {
+      "candidate": "Naresh Macherla",
+      "party": "Independent",
+      "votes": 432
+    },
+    {
+      "candidate": "Joshua Bridgeman-Carty",
+      "party": "Redbridge Ind.",
+      "votes": 393
+    },
+    {
+      "candidate": "Janum Janum",
+      "party": "Redbridge Ind.",
+      "votes": 362
+    },
+    {
+      "candidate": "Omer Sohail",
+      "party": "Independent",
+      "votes": 259
+    },
+    {
+      "candidate": "Rosemary Thomas",
+      "party": "Liberal Democrats",
+      "votes": 160
+    },
+    {
+      "candidate": "Gwyneth Deakins",
+      "party": "Liberal Democrats",
+      "votes": 154
+    },
+    {
+      "candidate": "Andrew Eracleous",
+      "party": "Liberal Democrats",
+      "votes": 138
+    }
+  ],
+  "Barkingside": [
+    {
+      "candidate": "Harminder  Bal",
+      "party": "Labour",
+      "votes": 1785
+    },
+    {
+      "candidate": "Martin Sachs*",
+      "party": "Labour",
+      "votes": 1649
+    },
+    {
+      "candidate": "Syeda Pasha",
+      "party": "Labour",
+      "votes": 1630
+    },
+    {
+      "candidate": "Vaseem Ahmed",
+      "party": "Redbridge Ind.",
+      "votes": 1472
+    },
+    {
+      "candidate": "Samine Aseeb",
+      "party": "Redbridge Ind.",
+      "votes": 1382
+    },
+    {
+      "candidate": "Ria Bhatti",
+      "party": "Redbridge Ind.",
+      "votes": 1328
+    },
+    {
+      "candidate": "Vinod  Agrawal",
+      "party": "Conservative",
+      "votes": 1145
+    },
+    {
+      "candidate": "Saravanan Muthusamy",
+      "party": "Conservative",
+      "votes": 1003
+    },
+    {
+      "candidate": "Ihsan Khan",
+      "party": "Conservative",
+      "votes": 716
+    },
+    {
+      "candidate": "Steven Batey",
+      "party": "Reform",
+      "votes": 680
+    },
+    {
+      "candidate": "Vishwanath Kokkonda",
+      "party": "Reform",
+      "votes": 674
+    },
+    {
+      "candidate": "W Thomas Thambipillai",
+      "party": "Reform",
+      "votes": 603
+    },
+    {
+      "candidate": "John  Clare",
+      "party": "Liberal Democrats",
+      "votes": 313
+    }
+  ],
+  "Bridge": [
+    {
+      "candidate": "Stephen Adams",
+      "party": "Conservative",
+      "votes": 1475
+    },
+    {
+      "candidate": "Adam Joiner",
+      "party": "Conservative",
+      "votes": 1302
+    },
+    {
+      "candidate": "Josiah Moseley",
+      "party": "Conservative",
+      "votes": 1182
+    },
+    {
+      "candidate": "Stuart  Shulton",
+      "party": "Reform",
+      "votes": 1068
+    },
+    {
+      "candidate": "Thomas Jose",
+      "party": "Reform",
+      "votes": 1053
+    },
+    {
+      "candidate": "Rachel Collinson",
+      "party": "Green",
+      "votes": 951
+    },
+    {
+      "candidate": "Misba Ahmed",
+      "party": "Labour",
+      "votes": 942
+    },
+    {
+      "candidate": "Gurdial  Bhamra*",
+      "party": "Labour",
+      "votes": 941
+    },
+    {
+      "candidate": "Jesmin Chowdhury",
+      "party": "Labour",
+      "votes": 937
+    },
+    {
+      "candidate": "Rakesh Vasis",
+      "party": "Reform",
+      "votes": 915
+    },
+    {
+      "candidate": "Richard Andrews",
+      "party": "Green",
+      "votes": 861
+    },
+    {
+      "candidate": "Joe  McIntosh",
+      "party": "Green",
+      "votes": 805
+    },
+    {
+      "candidate": "Dilip Padipurakalathi",
+      "party": "Liberal Democrats",
+      "votes": 191
+    }
+  ],
+  "Chadwell": [
+    {
+      "candidate": "Bert  Jones*",
+      "party": "Labour",
+      "votes": 1171
+    },
+    {
+      "candidate": "Muhammad Afzal",
+      "party": "Redbridge Ind.",
+      "votes": 1060
+    },
+    {
+      "candidate": "Niamh Atkins",
+      "party": "Green",
+      "votes": 946
+    },
+    {
+      "candidate": "Luthfa Rahman*",
+      "party": "Labour",
+      "votes": 916
+    },
+    {
+      "candidate": "Muhammad  Layek",
+      "party": "Labour",
+      "votes": 900
+    },
+    {
+      "candidate": "Arakoth  Chowdhury",
+      "party": "Redbridge Ind.",
+      "votes": 885
+    },
+    {
+      "candidate": "Prince Nwankwo",
+      "party": "Green",
+      "votes": 800
+    },
+    {
+      "candidate": "Syed  Siddiqi",
+      "party": "Green",
+      "votes": 792
+    },
+    {
+      "candidate": "Aba Kristilolu",
+      "party": "Redbridge Ind.",
+      "votes": 729
+    },
+    {
+      "candidate": "Sanjay  Vijh",
+      "party": "Conservative",
+      "votes": 723
+    },
+    {
+      "candidate": "Shirley Baah-Mensah",
+      "party": "Conservative",
+      "votes": 601
+    },
+    {
+      "candidate": "Maximillian Phoenix",
+      "party": "Reform",
+      "votes": 586
+    },
+    {
+      "candidate": "Waz Akram",
+      "party": "Reform",
+      "votes": 546
+    },
+    {
+      "candidate": "Monis Khan",
+      "party": "Conservative",
+      "votes": 486
+    },
+    {
+      "candidate": "Gary  Staight",
+      "party": "Liberal Democrats",
+      "votes": 369
+    },
+    {
+      "candidate": "Shamima Aktar",
+      "party": "Redbridge Matters",
+      "votes": 301
+    },
+    {
+      "candidate": "Ahmed Maruf",
+      "party": "Redbridge Matters",
+      "votes": 267
+    },
+    {
+      "candidate": "Sagal Osman",
+      "party": "Liberal Democrats",
+      "votes": 135
+    }
+  ],
+  "Churchfields": [
+    {
+      "candidate": "Lloyd  Duddridge*",
+      "party": "Labour",
+      "votes": 1808
+    },
+    {
+      "candidate": "Judith  Garfield*",
+      "party": "Labour",
+      "votes": 1664
+    },
+    {
+      "candidate": "Guy Williams*",
+      "party": "Labour",
+      "votes": 1597
+    },
+    {
+      "candidate": "Jillian Ghose",
+      "party": "Independent",
+      "votes": 1143
+    },
+    {
+      "candidate": "Helen Watson",
+      "party": "Independent",
+      "votes": 1141
+    },
+    {
+      "candidate": "Rita Mahli",
+      "party": "Independent",
+      "votes": 1086
+    },
+    {
+      "candidate": "Chrissie Gorman",
+      "party": "Conservative",
+      "votes": 1072
+    },
+    {
+      "candidate": "Nicola Cuthbert",
+      "party": "Reform",
+      "votes": 1004
+    },
+    {
+      "candidate": "John Long",
+      "party": "Reform",
+      "votes": 939
+    },
+    {
+      "candidate": "Zohair Hassan",
+      "party": "Conservative",
+      "votes": 938
+    },
+    {
+      "candidate": "Alex Wilson",
+      "party": "Reform",
+      "votes": 908
+    },
+    {
+      "candidate": "Samantha Quaresma-Cabral",
+      "party": "Conservative",
+      "votes": 905
+    },
+    {
+      "candidate": "Heather Liddle",
+      "party": "Liberal Democrats",
+      "votes": 426
+    },
+    {
+      "candidate": "Martin Rosner",
+      "party": "Liberal Democrats",
+      "votes": 379
+    },
+    {
+      "candidate": "Michael  Teahan",
+      "party": "Liberal Democrats",
+      "votes": 304
+    }
+  ],
+  "Clayhall": [
+    {
+      "candidate": "Kalpana Bose",
+      "party": "Labour",
+      "votes": 1529
+    },
+    {
+      "candidate": "Jamal Uddin*",
+      "party": "Labour",
+      "votes": 1359
+    },
+    {
+      "candidate": "Kamal  Qureshi",
+      "party": "Labour",
+      "votes": 1284
+    },
+    {
+      "candidate": "Vinil  Gupta",
+      "party": "Conservative",
+      "votes": 923
+    },
+    {
+      "candidate": "Lily  Boon",
+      "party": "Green",
+      "votes": 864
+    },
+    {
+      "candidate": "Azizur Rahman",
+      "party": "Redbridge Ind.",
+      "votes": 850
+    },
+    {
+      "candidate": "Krishen Bhardwaj",
+      "party": "Redbridge Ind.",
+      "votes": 807
+    },
+    {
+      "candidate": "Karen Packer",
+      "party": "Conservative",
+      "votes": 743
+    },
+    {
+      "candidate": "Ashburn Holder",
+      "party": "Redbridge Ind.",
+      "votes": 686
+    },
+    {
+      "candidate": "Kabir Mahmud*",
+      "party": "Redbridge Matters",
+      "votes": 596
+    },
+    {
+      "candidate": "Obaidul Khan",
+      "party": "Conservative",
+      "votes": 573
+    },
+    {
+      "candidate": "Mohammed  Shahid",
+      "party": "Redbridge Matters",
+      "votes": 465
+    },
+    {
+      "candidate": "John  Brodie",
+      "party": "Reform",
+      "votes": 457
+    },
+    {
+      "candidate": "Miki Dutta",
+      "party": "Reform",
+      "votes": 429
+    },
+    {
+      "candidate": "Richard  Heins",
+      "party": "Reform",
+      "votes": 396
+    },
+    {
+      "candidate": "Joel Winston",
+      "party": "Liberal Democrats",
+      "votes": 155
+    },
+    {
+      "candidate": "Kathleen  Teahan",
+      "party": "Liberal Democrats",
+      "votes": 153
+    },
+    {
+      "candidate": "Natascia Servini",
+      "party": "Liberal Democrats",
+      "votes": 140
+    }
+  ],
+  "Clementswood": [
+    {
+      "candidate": "Muhammed Javed*",
+      "party": "Labour",
+      "votes": 1065
+    },
+    {
+      "candidate": "Zulfiqar Hussain*",
+      "party": "Labour",
+      "votes": 1037
+    },
+    {
+      "candidate": "Fazlul Haque",
+      "party": "Redbridge Ind.",
+      "votes": 915
+    },
+    {
+      "candidate": "Taifur Rashid*",
+      "party": "Labour",
+      "votes": 884
+    },
+    {
+      "candidate": "Abdurahman Jafar",
+      "party": "Redbridge Ind.",
+      "votes": 787
+    },
+    {
+      "candidate": "Muhammad Mughal",
+      "party": "Redbridge Ind.",
+      "votes": 719
+    },
+    {
+      "candidate": "Zain Ali",
+      "party": "Green",
+      "votes": 640
+    },
+    {
+      "candidate": "Saheena Saeed",
+      "party": "Green",
+      "votes": 531
+    },
+    {
+      "candidate": "Deepika Verma",
+      "party": "Conservative",
+      "votes": 527
+    },
+    {
+      "candidate": "Ritu Chaubey",
+      "party": "Conservative",
+      "votes": 522
+    },
+    {
+      "candidate": "Sarika Dube",
+      "party": "Conservative",
+      "votes": 510
+    },
+    {
+      "candidate": "Tanaka  Pinki",
+      "party": "Green",
+      "votes": 475
+    },
+    {
+      "candidate": "Farjana Afroja",
+      "party": "Redbridge Matters",
+      "votes": 435
+    },
+    {
+      "candidate": "Peter Roovers",
+      "party": "Reform",
+      "votes": 219
+    },
+    {
+      "candidate": "Finlay Collins",
+      "party": "Liberal Democrats",
+      "votes": 148
+    }
+  ],
+  "Cranbrook": [
+    {
+      "candidate": "Feza Haque",
+      "party": "Redbridge Ind.",
+      "votes": 1200
+    },
+    {
+      "candidate": "Chaudhary Ahmed",
+      "party": "Labour",
+      "votes": 1143
+    },
+    {
+      "candidate": "Mohamed Haleemdeen",
+      "party": "Redbridge Ind.",
+      "votes": 1088
+    },
+    {
+      "candidate": "Saira Jamil*",
+      "party": "Labour",
+      "votes": 935
+    },
+    {
+      "candidate": "Tahreem Noor",
+      "party": "Redbridge Ind.",
+      "votes": 911
+    },
+    {
+      "candidate": "Syed Islam*",
+      "party": "Labour",
+      "votes": 898
+    },
+    {
+      "candidate": "Mohammed Asif",
+      "party": "Independent",
+      "votes": 718
+    },
+    {
+      "candidate": "Vissen Limbeea",
+      "party": "Green",
+      "votes": 651
+    },
+    {
+      "candidate": "Rambabu Siripurapu",
+      "party": "Conservative",
+      "votes": 626
+    },
+    {
+      "candidate": "Chiranjeev Verma",
+      "party": "Conservative",
+      "votes": 619
+    },
+    {
+      "candidate": "Nicole Maccari",
+      "party": "Conservative",
+      "votes": 610
+    },
+    {
+      "candidate": "Surinder Pahl",
+      "party": "Independent",
+      "votes": 280
+    },
+    {
+      "candidate": "Steven Kraft",
+      "party": "Reform",
+      "votes": 273
+    },
+    {
+      "candidate": "Patricia Steel",
+      "party": "Reform",
+      "votes": 264
+    },
+    {
+      "candidate": "Grace Jacob",
+      "party": "Liberal Democrats",
+      "votes": 239
+    }
+  ],
+  "Fairlop": [
+    {
+      "candidate": "Bob Chattaway*",
+      "party": "Labour",
+      "votes": 1387
+    },
+    {
+      "candidate": "Erza Doda",
+      "party": "Labour",
+      "votes": 1260
+    },
+    {
+      "candidate": "Yogesh Saini",
+      "party": "Labour",
+      "votes": 1236
+    },
+    {
+      "candidate": "Richard King",
+      "party": "Reform",
+      "votes": 1082
+    },
+    {
+      "candidate": "Madhuri Bandaru",
+      "party": "Reform",
+      "votes": 1058
+    },
+    {
+      "candidate": "Philip  Smith",
+      "party": "Reform",
+      "votes": 1050
+    },
+    {
+      "candidate": "Joyce Ryan*",
+      "party": "Conservative",
+      "votes": 1034
+    },
+    {
+      "candidate": "Richard Firmstone",
+      "party": "Conservative",
+      "votes": 967
+    },
+    {
+      "candidate": "Sayeed Syduzzaman",
+      "party": "Conservative",
+      "votes": 788
+    },
+    {
+      "candidate": "Razwana Hafiz",
+      "party": "Green",
+      "votes": 772
+    },
+    {
+      "candidate": "Cedric Knight",
+      "party": "Green",
+      "votes": 670
+    },
+    {
+      "candidate": "Catherine  Davies",
+      "party": "Liberal Democrats",
+      "votes": 263
+    },
+    {
+      "candidate": "Gavin Bowtell",
+      "party": "Liberal Democrats",
+      "votes": 198
+    },
+    {
+      "candidate": "Mark  Vince",
+      "party": "Liberal Democrats",
+      "votes": 181
+    }
+  ],
+  "Fullwell": [
+    {
+      "candidate": "Matthew Goddin*",
+      "party": "Labour",
+      "votes": 1868
+    },
+    {
+      "candidate": "Vibhu Taneja",
+      "party": "Labour",
+      "votes": 1773
+    },
+    {
+      "candidate": "Linda Mullis",
+      "party": "Labour",
+      "votes": 1771
+    },
+    {
+      "candidate": "James Anderson",
+      "party": "Reform",
+      "votes": 946
+    },
+    {
+      "candidate": "Lee  Burkwood",
+      "party": "Green",
+      "votes": 901
+    },
+    {
+      "candidate": "Laura Elliott",
+      "party": "Reform",
+      "votes": 885
+    },
+    {
+      "candidate": "Amanda Swords",
+      "party": "Reform",
+      "votes": 838
+    },
+    {
+      "candidate": "Fahad Zeeshan",
+      "party": "Green",
+      "votes": 795
+    },
+    {
+      "candidate": "Amir Sandhu",
+      "party": "Green",
+      "votes": 777
+    },
+    {
+      "candidate": "Gowri Adimulam",
+      "party": "Conservative",
+      "votes": 746
+    },
+    {
+      "candidate": "Vrindha Vaishnav",
+      "party": "Conservative",
+      "votes": 717
+    },
+    {
+      "candidate": "Arpan Mahajan",
+      "party": "Conservative",
+      "votes": 662
+    },
+    {
+      "candidate": "Imran Arshad",
+      "party": "Redbridge Ind.",
+      "votes": 490
+    },
+    {
+      "candidate": "Sara Nazir",
+      "party": "Redbridge Ind.",
+      "votes": 485
+    },
+    {
+      "candidate": "Ghazala Muhammad",
+      "party": "Redbridge Ind.",
+      "votes": 473
+    }
+  ],
+  "Goodmayes": [
+    {
+      "candidate": "Ben Cornish",
+      "party": "Labour",
+      "votes": 1140
+    },
+    {
+      "candidate": "Shorif  Akhonda",
+      "party": "Labour",
+      "votes": 1120
+    },
+    {
+      "candidate": "Prabjit Gurm*",
+      "party": "Labour",
+      "votes": 1098
+    },
+    {
+      "candidate": "Amina Azmath",
+      "party": "Redbridge Ind.",
+      "votes": 951
+    },
+    {
+      "candidate": "Humera Yasin",
+      "party": "Redbridge Ind.",
+      "votes": 895
+    },
+    {
+      "candidate": "Shorful Islam",
+      "party": "Redbridge Ind.",
+      "votes": 891
+    },
+    {
+      "candidate": "Helen Choudhury",
+      "party": "Green",
+      "votes": 677
+    },
+    {
+      "candidate": "Amjad Iqbal",
+      "party": "Green",
+      "votes": 632
+    },
+    {
+      "candidate": "John  Tyne",
+      "party": "Green",
+      "votes": 593
+    },
+    {
+      "candidate": "Maureen Ashley",
+      "party": "Conservative",
+      "votes": 519
+    },
+    {
+      "candidate": "Robin Thakur",
+      "party": "Conservative",
+      "votes": 515
+    },
+    {
+      "candidate": "Spencer Rose",
+      "party": "Reform",
+      "votes": 382
+    },
+    {
+      "candidate": "Hannah Chapman",
+      "party": "Reform",
+      "votes": 379
+    },
+    {
+      "candidate": "Mohammed  Chowdhury",
+      "party": "Conservative",
+      "votes": 359
+    },
+    {
+      "candidate": "Chacko Bibin",
+      "party": "Reform",
+      "votes": 309
+    }
+  ],
+  "Hainault": [
+    {
+      "candidate": "Helen Mullis*",
+      "party": "Labour",
+      "votes": 1573
+    },
+    {
+      "candidate": "Shah  Ali*",
+      "party": "Labour",
+      "votes": 1523
+    },
+    {
+      "candidate": "Neil  Anderson",
+      "party": "Reform",
+      "votes": 1378
+    },
+    {
+      "candidate": "Pushpita Gupta*",
+      "party": "Labour",
+      "votes": 1368
+    },
+    {
+      "candidate": "Sylvester Lewis",
+      "party": "Reform",
+      "votes": 1311
+    },
+    {
+      "candidate": "Sunil Bali",
+      "party": "Reform",
+      "votes": 1234
+    },
+    {
+      "candidate": "Cat Still",
+      "party": "Green",
+      "votes": 846
+    },
+    {
+      "candidate": "Rana Ahmad",
+      "party": "Redbridge Ind.",
+      "votes": 613
+    },
+    {
+      "candidate": "Kamaldeep Singh",
+      "party": "Conservative",
+      "votes": 516
+    },
+    {
+      "candidate": "Pamkaj Baldev",
+      "party": "Conservative",
+      "votes": 492
+    },
+    {
+      "candidate": "Prabhu Vasudevan",
+      "party": "Conservative",
+      "votes": 487
+    },
+    {
+      "candidate": "Piotr Berndt",
+      "party": "Liberal Democrats",
+      "votes": 261
+    }
+  ],
+  "Ilford Town": [
+    {
+      "candidate": "Saima Ahmed*",
+      "party": "Labour",
+      "votes": 910
+    },
+    {
+      "candidate": "Mohammed  Enamul",
+      "party": "Redbridge Ind.",
+      "votes": 905
+    },
+    {
+      "candidate": "Firoz Patel",
+      "party": "Redbridge Ind.",
+      "votes": 806
+    },
+    {
+      "candidate": "Shoaib Patel*",
+      "party": "Labour",
+      "votes": 744
+    },
+    {
+      "candidate": "Syed  Siddiqi",
+      "party": "Green",
+      "votes": 462
+    },
+    {
+      "candidate": "Zahirul  Mirdha",
+      "party": "Conservative",
+      "votes": 428
+    },
+    {
+      "candidate": "Naresh Maharaj",
+      "party": "Reform",
+      "votes": 302
+    },
+    {
+      "candidate": "Roger Fallows",
+      "party": "Reform",
+      "votes": 257
+    },
+    {
+      "candidate": "Isaac Odejimi",
+      "party": "Conservative",
+      "votes": 250
+    },
+    {
+      "candidate": "Mohammed  Khan",
+      "party": "Liberal Democrats",
+      "votes": 113
+    }
+  ],
+  "Loxford": [
+    {
+      "candidate": "Foyzur Rahman*",
+      "party": "Labour",
+      "votes": 1173
+    },
+    {
+      "candidate": "Sahdia Warraich*",
+      "party": "Labour",
+      "votes": 1020
+    },
+    {
+      "candidate": "Mazhar Saleem",
+      "party": "Labour",
+      "votes": 997
+    },
+    {
+      "candidate": "Nisa Firdaus",
+      "party": "Green",
+      "votes": 884
+    },
+    {
+      "candidate": "Kashif Naqvi",
+      "party": "Green",
+      "votes": 713
+    },
+    {
+      "candidate": "Mohsin Toga",
+      "party": "Green",
+      "votes": 683
+    },
+    {
+      "candidate": "Ruthba Amin",
+      "party": "Redbridge Ind.",
+      "votes": 558
+    },
+    {
+      "candidate": "Iqbal Ahmed",
+      "party": "Redbridge Ind.",
+      "votes": 500
+    },
+    {
+      "candidate": "Poonam Gaur",
+      "party": "Conservative",
+      "votes": 366
+    },
+    {
+      "candidate": "Ramona Mitrache",
+      "party": "Redbridge Ind.",
+      "votes": 364
+    },
+    {
+      "candidate": "Muhammad Afzal",
+      "party": "Redbridge Matters",
+      "votes": 299
+    },
+    {
+      "candidate": "Jaffry Jaman",
+      "party": "Independent",
+      "votes": 278
+    },
+    {
+      "candidate": "Ataur Rahman",
+      "party": "Redbridge Matters",
+      "votes": 258
+    },
+    {
+      "candidate": "Aleska Hossain",
+      "party": "Conservative",
+      "votes": 248
+    },
+    {
+      "candidate": "Michael Noel",
+      "party": "Reform",
+      "votes": 241
+    },
+    {
+      "candidate": "Razaul Karim",
+      "party": "Conservative",
+      "votes": 221
+    },
+    {
+      "candidate": "Tad Jani",
+      "party": "Reform",
+      "votes": 215
+    }
+  ],
+  "Mayfield": [
+    {
+      "candidate": "Harneek Kaur",
+      "party": "Labour",
+      "votes": 1306
+    },
+    {
+      "candidate": "Rishi  Bhagi",
+      "party": "Labour",
+      "votes": 1291
+    },
+    {
+      "candidate": "Noor  Begum*",
+      "party": "Redbridge Ind.",
+      "votes": 1286
+    },
+    {
+      "candidate": "Tanweer Khan*",
+      "party": "Labour",
+      "votes": 1279
+    },
+    {
+      "candidate": "Bilal Muhammad",
+      "party": "Redbridge Ind.",
+      "votes": 1064
+    },
+    {
+      "candidate": "Edreis Rizwan",
+      "party": "Redbridge Ind.",
+      "votes": 920
+    },
+    {
+      "candidate": "Ijaz Amjad",
+      "party": "Green",
+      "votes": 725
+    },
+    {
+      "candidate": "Imran Awan",
+      "party": "Green",
+      "votes": 686
+    },
+    {
+      "candidate": "Eva  Takacs",
+      "party": "Green",
+      "votes": 531
+    },
+    {
+      "candidate": "Matthew  Cole",
+      "party": "Conservative",
+      "votes": 442
+    },
+    {
+      "candidate": "Sharad Desai",
+      "party": "Reform",
+      "votes": 380
+    },
+    {
+      "candidate": "Russel Dias",
+      "party": "Conservative",
+      "votes": 367
+    },
+    {
+      "candidate": "Joanne  Hennessey",
+      "party": "Reform",
+      "votes": 355
+    },
+    {
+      "candidate": "Azmain Tazwar",
+      "party": "Conservative",
+      "votes": 348
+    },
+    {
+      "candidate": "Carl Odell",
+      "party": "Reform",
+      "votes": 324
+    }
+  ],
+  "Monkhams": [
+    {
+      "candidate": "Joel  Herga*",
+      "party": "Conservative",
+      "votes": 2055
+    },
+    {
+      "candidate": "Clark  Vasey",
+      "party": "Conservative",
+      "votes": 1972
+    },
+    {
+      "candidate": "Gerald Bouchier",
+      "party": "Reform",
+      "votes": 568
+    },
+    {
+      "candidate": "Romana Kousar",
+      "party": "Labour",
+      "votes": 545
+    },
+    {
+      "candidate": "Timothy Harris",
+      "party": "Green",
+      "votes": 518
+    },
+    {
+      "candidate": "Jordan Meakin",
+      "party": "Green",
+      "votes": 477
+    },
+    {
+      "candidate": "Ghandhimathy Sooriyakumar",
+      "party": "Labour",
+      "votes": 474
+    },
+    {
+      "candidate": "Savan Vyas",
+      "party": "Reform",
+      "votes": 455
+    },
+    {
+      "candidate": "Claire  Hunt",
+      "party": "Liberal Democrats",
+      "votes": 260
+    },
+    {
+      "candidate": "Chris Portou",
+      "party": "Liberal Democrats",
+      "votes": 187
+    }
+  ],
+  "Newbury": [
+    {
+      "candidate": "Sunny Brar*",
+      "party": "Labour",
+      "votes": 1683
+    },
+    {
+      "candidate": "Thavathuray Jeyaranjan*",
+      "party": "Labour",
+      "votes": 1586
+    },
+    {
+      "candidate": "Syeda  Choudhury*",
+      "party": "Labour",
+      "votes": 1583
+    },
+    {
+      "candidate": "Tanvir Ahmed",
+      "party": "Redbridge Ind.",
+      "votes": 1215
+    },
+    {
+      "candidate": "Aslam  Iqbal",
+      "party": "Redbridge Ind.",
+      "votes": 1077
+    },
+    {
+      "candidate": "Winslow  Green",
+      "party": "Redbridge Ind.",
+      "votes": 1027
+    },
+    {
+      "candidate": "Chloe Juliette",
+      "party": "Green",
+      "votes": 694
+    },
+    {
+      "candidate": "Maulik Patel",
+      "party": "Green",
+      "votes": 605
+    },
+    {
+      "candidate": "Samia Nneji",
+      "party": "Green",
+      "votes": 526
+    },
+    {
+      "candidate": "Olakunle Olaifa",
+      "party": "Conservative",
+      "votes": 444
+    },
+    {
+      "candidate": "Stanley Segor",
+      "party": "Reform",
+      "votes": 370
+    },
+    {
+      "candidate": "Ibtasum Iktador",
+      "party": "Conservative",
+      "votes": 367
+    },
+    {
+      "candidate": "Moazzam Sultan",
+      "party": "Conservative",
+      "votes": 347
+    },
+    {
+      "candidate": "Strungaru Vitalie",
+      "party": "Reform",
+      "votes": 341
+    }
+  ],
+  "Seven Kings": [
+    {
+      "candidate": "Imran Ahmed",
+      "party": "Redbridge Ind.",
+      "votes": 1322
+    },
+    {
+      "candidate": "Vanisha  Solanki*",
+      "party": "Labour",
+      "votes": 1156
+    },
+    {
+      "candidate": "Nav Johal*",
+      "party": "Labour",
+      "votes": 1066
+    },
+    {
+      "candidate": "Rayhana Yasmin",
+      "party": "Redbridge Ind.",
+      "votes": 1049
+    },
+    {
+      "candidate": "Sadiq Kothia*",
+      "party": "Labour",
+      "votes": 1031
+    },
+    {
+      "candidate": "Kes Choudhery",
+      "party": "Redbridge Ind.",
+      "votes": 938
+    },
+    {
+      "candidate": "Andy Walker",
+      "party": "Redbridge Trade Union Party",
+      "votes": 784
+    },
+    {
+      "candidate": "Awab Bahri",
+      "party": "Green",
+      "votes": 627
+    },
+    {
+      "candidate": "Tony Csoka",
+      "party": "Green",
+      "votes": 566
+    },
+    {
+      "candidate": "Dak Patel",
+      "party": "Conservative",
+      "votes": 519
+    },
+    {
+      "candidate": "Mohammed  Noor",
+      "party": "Redbridge Matters",
+      "votes": 500
+    },
+    {
+      "candidate": "Abdur Rashid",
+      "party": "Redbridge Matters",
+      "votes": 467
+    },
+    {
+      "candidate": "Thomas Kempster",
+      "party": "Reform",
+      "votes": 355
+    },
+    {
+      "candidate": "Chiara Castelli",
+      "party": "Reform",
+      "votes": 336
+    },
+    {
+      "candidate": "Usman Rasheed",
+      "party": "Conservative",
+      "votes": 272
+    },
+    {
+      "candidate": "Mir  Ali",
+      "party": "Conservative",
+      "votes": 232
+    }
+  ],
+  "South Woodford": [
+    {
+      "candidate": "Beverley Brewer*",
+      "party": "Labour",
+      "votes": 1464
+    },
+    {
+      "candidate": "Monika Patel",
+      "party": "Green",
+      "votes": 1309
+    },
+    {
+      "candidate": "Kallan Greybe",
+      "party": "Green",
+      "votes": 1299
+    },
+    {
+      "candidate": "Joe Hehir*",
+      "party": "Labour",
+      "votes": 1296
+    },
+    {
+      "candidate": "Jaya Narinesingh",
+      "party": "Green",
+      "votes": 1247
+    },
+    {
+      "candidate": "Robert Newman",
+      "party": "Labour",
+      "votes": 1214
+    },
+    {
+      "candidate": "Suzanne Nolan",
+      "party": "Conservative",
+      "votes": 978
+    },
+    {
+      "candidate": "Paul Canal*",
+      "party": "Conservative",
+      "votes": 962
+    },
+    {
+      "candidate": "Robert Cole",
+      "party": "Conservative",
+      "votes": 871
+    },
+    {
+      "candidate": "Sam Chapman",
+      "party": "Reform",
+      "votes": 633
+    },
+    {
+      "candidate": "Jonathan Santaub",
+      "party": "Reform",
+      "votes": 557
+    },
+    {
+      "candidate": "Sam Windle",
+      "party": "Reform",
+      "votes": 540
+    },
+    {
+      "candidate": "Crispin Acton",
+      "party": "Liberal Democrats",
+      "votes": 324
+    },
+    {
+      "candidate": "Scott Wilding",
+      "party": "Liberal Democrats",
+      "votes": 297
+    }
+  ],
+  "Valentines": [
+    {
+      "candidate": "Rashida  Choudhery",
+      "party": "Redbridge Ind.",
+      "votes": 1576
+    },
+    {
+      "candidate": "Alex Charlton-Holmes*",
+      "party": "Labour",
+      "votes": 1501
+    },
+    {
+      "candidate": "Marwan Elfallah",
+      "party": "Redbridge Ind.",
+      "votes": 1435
+    },
+    {
+      "candidate": "Munaf  Gani",
+      "party": "Redbridge Ind.",
+      "votes": 1417
+    },
+    {
+      "candidate": "Khayer Chowdhury*",
+      "party": "Labour",
+      "votes": 1362
+    },
+    {
+      "candidate": "Kumud Joshi*",
+      "party": "Labour",
+      "votes": 1228
+    },
+    {
+      "candidate": "Waheed Arshad",
+      "party": "Green",
+      "votes": 624
+    },
+    {
+      "candidate": "Malik Khalid",
+      "party": "Green",
+      "votes": 565
+    },
+    {
+      "candidate": "Anu Kapoor",
+      "party": "Conservative",
+      "votes": 408
+    },
+    {
+      "candidate": "Priti Bhatawadekar",
+      "party": "Conservative",
+      "votes": 399
+    },
+    {
+      "candidate": "Ahsan Uddin",
+      "party": "Conservative",
+      "votes": 300
+    },
+    {
+      "candidate": "Daniel Blackwell",
+      "party": "Reform",
+      "votes": 294
+    },
+    {
+      "candidate": "Frederick Brown",
+      "party": "Reform",
+      "votes": 266
+    },
+    {
+      "candidate": "Brian Mankin",
+      "party": "Reform",
+      "votes": 234
+    },
+    {
+      "candidate": "Neelam Pahl",
+      "party": "Independent",
+      "votes": 164
+    },
+    {
+      "candidate": "Neil Bell",
+      "party": "Liberal Democrats",
+      "votes": 138
+    }
+  ],
+  "Wanstead Park": [
+    {
+      "candidate": "Emma Shepherd-Mallinson*",
+      "party": "Labour",
+      "votes": 1183
+    },
+    {
+      "candidate": "Milli  Clack",
+      "party": "Green",
+      "votes": 1156
+    },
+    {
+      "candidate": "Nadir Gilani",
+      "party": "Green",
+      "votes": 1102
+    },
+    {
+      "candidate": "Simon Miller",
+      "party": "Labour",
+      "votes": 1047
+    },
+    {
+      "candidate": "Andrew Joyce",
+      "party": "Reform",
+      "votes": 384
+    },
+    {
+      "candidate": "Yit Phoenix",
+      "party": "Reform",
+      "votes": 353
+    },
+    {
+      "candidate": "Paul  Smith",
+      "party": "Conservative",
+      "votes": 349
+    },
+    {
+      "candidate": "David  Thom",
+      "party": "Conservative",
+      "votes": 324
+    },
+    {
+      "candidate": "Alan Thomas",
+      "party": "Liberal Democrats",
+      "votes": 175
+    },
+    {
+      "candidate": "Neil Hepworth",
+      "party": "Liberal Democrats",
+      "votes": 161
+    }
+  ],
+  "Wanstead Village": [
+    {
+      "candidate": "Jo Blackman*",
+      "party": "Labour",
+      "votes": 1715
+    },
+    {
+      "candidate": "Sue Whitehead",
+      "party": "Green",
+      "votes": 1478
+    },
+    {
+      "candidate": "Daniel Morgan-Thomas*",
+      "party": "Labour",
+      "votes": 1415
+    },
+    {
+      "candidate": "Md  Ali",
+      "party": "Green",
+      "votes": 1306
+    },
+    {
+      "candidate": "Neal Vithlani",
+      "party": "Labour",
+      "votes": 1254
+    },
+    {
+      "candidate": "Rabiya Tehseen",
+      "party": "Green",
+      "votes": 1230
+    },
+    {
+      "candidate": "Mark Gitsham",
+      "party": "Liberal Democrats",
+      "votes": 782
+    },
+    {
+      "candidate": "Mark  Scannell",
+      "party": "Conservative",
+      "votes": 726
+    },
+    {
+      "candidate": "David Smith",
+      "party": "Conservative",
+      "votes": 716
+    },
+    {
+      "candidate": "Corbyn  D'Alanno",
+      "party": "Conservative",
+      "votes": 683
+    },
+    {
+      "candidate": "William Collins",
+      "party": "Reform",
+      "votes": 649
+    },
+    {
+      "candidate": "David Davies",
+      "party": "Reform",
+      "votes": 621
+    },
+    {
+      "candidate": "Sharmon Lewis",
+      "party": "Reform",
+      "votes": 577
+    },
+    {
+      "candidate": "Humza Sair",
+      "party": "Liberal Democrats",
+      "votes": 568
+    },
+    {
+      "candidate": "Mohammed Uddin",
+      "party": "Liberal Democrats",
+      "votes": 455
+    }
+  ]
+}

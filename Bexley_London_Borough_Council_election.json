@@ -1,0 +1,996 @@
+{
+  "Barnehurst": [
+    {
+      "candidate": "Michael Gillespie",
+      "party": "Conservative",
+      "votes": 1578
+    },
+    {
+      "candidate": "Howard William Jackson",
+      "party": "Conservative",
+      "votes": 1404
+    },
+    {
+      "candidate": "Lois Moules",
+      "party": "Reform",
+      "votes": 1303
+    },
+    {
+      "candidate": "Anne Smith",
+      "party": "Reform",
+      "votes": 1236
+    },
+    {
+      "candidate": "Rachel Gogo",
+      "party": "Labour",
+      "votes": 737
+    },
+    {
+      "candidate": "James Murphy",
+      "party": "Labour",
+      "votes": 586
+    },
+    {
+      "candidate": "John Ely",
+      "party": "Green",
+      "votes": 456
+    },
+    {
+      "candidate": "Lyndon Griffiths",
+      "party": "Liberal Democrats",
+      "votes": 186
+    }
+  ],
+  "Belvedere": [
+    {
+      "candidate": "Sally Hinkley*",
+      "party": "Labour",
+      "votes": 1461
+    },
+    {
+      "candidate": "Jeremy Fosten*",
+      "party": "Labour",
+      "votes": 1451
+    },
+    {
+      "candidate": "Christopher Calvert",
+      "party": "Reform",
+      "votes": 1343
+    },
+    {
+      "candidate": "Chris Frampton",
+      "party": "Reform",
+      "votes": 1272
+    },
+    {
+      "candidate": "Anthony Riches",
+      "party": "Labour",
+      "votes": 1256
+    },
+    {
+      "candidate": "Michael Wilson",
+      "party": "Reform",
+      "votes": 1226
+    },
+    {
+      "candidate": "Sarah Barry",
+      "party": "Green",
+      "votes": 884
+    },
+    {
+      "candidate": "Christine Bishop",
+      "party": "Conservative",
+      "votes": 867
+    },
+    {
+      "candidate": "Matthew Gater",
+      "party": "Conservative",
+      "votes": 751
+    },
+    {
+      "candidate": "Clement Hollands",
+      "party": "Green",
+      "votes": 679
+    },
+    {
+      "candidate": "Masbah Khan",
+      "party": "Conservative",
+      "votes": 637
+    },
+    {
+      "candidate": "Sam Kanu",
+      "party": "Liberal Democrats",
+      "votes": 278
+    },
+    {
+      "candidate": "David Tringham",
+      "party": "Liberal Democrats",
+      "votes": 209
+    },
+    {
+      "candidate": "Deji Olayinka",
+      "party": "TUSC",
+      "votes": 116
+    }
+  ],
+  "Bexleyheath": [
+    {
+      "candidate": "Hannah Gillespie",
+      "party": "Conservative",
+      "votes": 2378
+    },
+    {
+      "candidate": "Bola Carew*",
+      "party": "Conservative",
+      "votes": 2347
+    },
+    {
+      "candidate": "Rags Sandhu*",
+      "party": "Conservative",
+      "votes": 2243
+    },
+    {
+      "candidate": "Andrew Cronin",
+      "party": "Reform",
+      "votes": 1934
+    },
+    {
+      "candidate": "Mike Lyons",
+      "party": "Reform",
+      "votes": 1887
+    },
+    {
+      "candidate": "Colin Grostate",
+      "party": "Reform",
+      "votes": 1821
+    },
+    {
+      "candidate": "Eric Davies",
+      "party": "Labour",
+      "votes": 957
+    },
+    {
+      "candidate": "Lily Demetriou",
+      "party": "Labour",
+      "votes": 941
+    },
+    {
+      "candidate": "Brendan Keenan",
+      "party": "Labour",
+      "votes": 803
+    },
+    {
+      "candidate": "Yolanda Allen",
+      "party": "Green",
+      "votes": 732
+    },
+    {
+      "candidate": "Nancy Willmouth-Coates",
+      "party": "Green",
+      "votes": 643
+    },
+    {
+      "candidate": "Ronnie King",
+      "party": "Liberal Democrats",
+      "votes": 334
+    },
+    {
+      "candidate": "Jawharah Albakri",
+      "party": "Liberal Democrats",
+      "votes": 293
+    }
+  ],
+  "Blackfen and Lamorbey": [
+    {
+      "candidate": "Brian Bishop",
+      "party": "Conservative",
+      "votes": 2417
+    },
+    {
+      "candidate": "Peter Craske*",
+      "party": "Conservative",
+      "votes": 2254
+    },
+    {
+      "candidate": "Frazer Brooks",
+      "party": "Conservative",
+      "votes": 2242
+    },
+    {
+      "candidate": "Robert Brooks",
+      "party": "Reform",
+      "votes": 2240
+    },
+    {
+      "candidate": "Graham Holland",
+      "party": "Reform",
+      "votes": 2142
+    },
+    {
+      "candidate": "Lynn Smith",
+      "party": "Reform",
+      "votes": 2066
+    },
+    {
+      "candidate": "James Brown",
+      "party": "Green",
+      "votes": 813
+    },
+    {
+      "candidate": "Nicola Iles",
+      "party": "Labour",
+      "votes": 694
+    },
+    {
+      "candidate": "Tunde Adewopo",
+      "party": "Labour",
+      "votes": 691
+    },
+    {
+      "candidate": "James Hunt*",
+      "party": "Independent",
+      "votes": 626
+    },
+    {
+      "candidate": "John Browning",
+      "party": "Labour",
+      "votes": 603
+    },
+    {
+      "candidate": "James Handscombe",
+      "party": "Liberal Democrats",
+      "votes": 392
+    },
+    {
+      "candidate": "Robin Kelly",
+      "party": "Liberal Democrats",
+      "votes": 355
+    }
+  ],
+  "Blendon and Penhill": [
+    {
+      "candidate": "David Leaf*",
+      "party": "Conservative",
+      "votes": 2676
+    },
+    {
+      "candidate": "Cafer Munur",
+      "party": "Conservative",
+      "votes": 2575
+    },
+    {
+      "candidate": "Nicholas O'Hare*",
+      "party": "Conservative",
+      "votes": 2555
+    },
+    {
+      "candidate": "Mike Ferro",
+      "party": "Reform",
+      "votes": 2086
+    },
+    {
+      "candidate": "Mac Mcgannon",
+      "party": "Reform",
+      "votes": 1988
+    },
+    {
+      "candidate": "Jon Templer",
+      "party": "Reform",
+      "votes": 1975
+    },
+    {
+      "candidate": "Esther Amaning",
+      "party": "Labour",
+      "votes": 731
+    },
+    {
+      "candidate": "Mariam Zahedi",
+      "party": "Green",
+      "votes": 729
+    },
+    {
+      "candidate": "Pat Ball",
+      "party": "Labour",
+      "votes": 697
+    },
+    {
+      "candidate": "Ben Nottle",
+      "party": "Labour",
+      "votes": 505
+    },
+    {
+      "candidate": "Zoe Brooks",
+      "party": "Liberal Democrats",
+      "votes": 380
+    },
+    {
+      "candidate": "Shule Basaran",
+      "party": "Liberal Democrats",
+      "votes": 326
+    }
+  ],
+  "Crayford": [
+    {
+      "candidate": "Sandra Cerisola",
+      "party": "Reform",
+      "votes": 1756
+    },
+    {
+      "candidate": "Debbie Ryan",
+      "party": "Reform",
+      "votes": 1734
+    },
+    {
+      "candidate": "Oke Ene",
+      "party": "Reform",
+      "votes": 1599
+    },
+    {
+      "candidate": "Geraldene Lucia-Hennis*",
+      "party": "Conservative",
+      "votes": 1544
+    },
+    {
+      "candidate": "Andrew Credgington",
+      "party": "Conservative",
+      "votes": 1493
+    },
+    {
+      "candidate": "Jonathan Gillespie",
+      "party": "Conservative",
+      "votes": 1453
+    },
+    {
+      "candidate": "Sevda Bloom",
+      "party": "Labour",
+      "votes": 1050
+    },
+    {
+      "candidate": "Colin Chin",
+      "party": "Labour",
+      "votes": 1005
+    },
+    {
+      "candidate": "Nathan Ogunleye",
+      "party": "Labour",
+      "votes": 949
+    },
+    {
+      "candidate": "Francesca Wyvern",
+      "party": "Green",
+      "votes": 728
+    },
+    {
+      "candidate": "Paul Barrett",
+      "party": "Liberal Democrats",
+      "votes": 439
+    }
+  ],
+  "Crook Log": [
+    {
+      "candidate": "Chris Taylor",
+      "party": "Conservative",
+      "votes": 2212
+    },
+    {
+      "candidate": "Graham D'amiral",
+      "party": "Conservative",
+      "votes": 2183
+    },
+    {
+      "candidate": "Janice Ward-Wilson",
+      "party": "Conservative",
+      "votes": 2177
+    },
+    {
+      "candidate": "Eamonn Delaney",
+      "party": "Reform",
+      "votes": 1875
+    },
+    {
+      "candidate": "John Dunford",
+      "party": "Reform",
+      "votes": 1823
+    },
+    {
+      "candidate": "Philip Savage",
+      "party": "Reform",
+      "votes": 1794
+    },
+    {
+      "candidate": "Liam Davies",
+      "party": "Labour",
+      "votes": 1006
+    },
+    {
+      "candidate": "Daisy Page",
+      "party": "Labour",
+      "votes": 997
+    },
+    {
+      "candidate": "Tim Nicholls",
+      "party": "Labour",
+      "votes": 880
+    },
+    {
+      "candidate": "Tony Ball",
+      "party": "Green",
+      "votes": 805
+    },
+    {
+      "candidate": "Cemile Ahmet",
+      "party": "Liberal Democrats",
+      "votes": 362
+    },
+    {
+      "candidate": "Lindsay Mackie",
+      "party": "Liberal Democrats",
+      "votes": 350
+    },
+    {
+      "candidate": "Giuseppe Tomaselli",
+      "party": "Liberal Democrats",
+      "votes": 285
+    },
+    {
+      "candidate": "Vianney Kimbugwe",
+      "party": "TUSC",
+      "votes": 72
+    }
+  ],
+  "East Wickham": [
+    {
+      "candidate": "Steven Hall",
+      "party": "Conservative",
+      "votes": 2268
+    },
+    {
+      "candidate": "Caroline Newton",
+      "party": "Conservative",
+      "votes": 2049
+    },
+    {
+      "candidate": "David Li",
+      "party": "Conservative",
+      "votes": 1987
+    },
+    {
+      "candidate": "David Byrne",
+      "party": "Reform",
+      "votes": 1801
+    },
+    {
+      "candidate": "Miles Jones",
+      "party": "Reform",
+      "votes": 1689
+    },
+    {
+      "candidate": "Baris Lefkonuklu",
+      "party": "Reform",
+      "votes": 1520
+    },
+    {
+      "candidate": "Vincent Adegoke",
+      "party": "Labour",
+      "votes": 1007
+    },
+    {
+      "candidate": "Veronica Obadara",
+      "party": "Labour",
+      "votes": 943
+    },
+    {
+      "candidate": "Philip Segurola",
+      "party": "Labour",
+      "votes": 842
+    },
+    {
+      "candidate": "Bob Morris",
+      "party": "Green",
+      "votes": 744
+    },
+    {
+      "candidate": "Connor Wood",
+      "party": "Liberal Democrats",
+      "votes": 374
+    }
+  ],
+  "Erith": [
+    {
+      "candidate": "Nicola Taylor*",
+      "party": "Labour",
+      "votes": 1143
+    },
+    {
+      "candidate": "Chris Ball*",
+      "party": "Labour",
+      "votes": 1089
+    },
+    {
+      "candidate": "Caroline Panetta",
+      "party": "Reform",
+      "votes": 816
+    },
+    {
+      "candidate": "Geoff Williams",
+      "party": "Reform",
+      "votes": 766
+    },
+    {
+      "candidate": "Martin Radbon",
+      "party": "Green",
+      "votes": 581
+    },
+    {
+      "candidate": "Joe Pollard",
+      "party": "Conservative",
+      "votes": 409
+    },
+    {
+      "candidate": "Gurhan Otem",
+      "party": "Conservative",
+      "votes": 405
+    },
+    {
+      "candidate": "Laurie Bennett",
+      "party": "Liberal Democrats",
+      "votes": 212
+    }
+  ],
+  "Falconwood and Welling": [
+    {
+      "candidate": "Christine Catterall",
+      "party": "Conservative",
+      "votes": 2191
+    },
+    {
+      "candidate": "Dave Curtois",
+      "party": "Conservative",
+      "votes": 2149
+    },
+    {
+      "candidate": "Barry Saunders",
+      "party": "Conservative",
+      "votes": 1928
+    },
+    {
+      "candidate": "Catherine Allard",
+      "party": "Reform",
+      "votes": 1862
+    },
+    {
+      "candidate": "Pamela Andrews",
+      "party": "Reform",
+      "votes": 1837
+    },
+    {
+      "candidate": "Nicola Jones",
+      "party": "Reform",
+      "votes": 1713
+    },
+    {
+      "candidate": "Ian Mccawley",
+      "party": "Labour",
+      "votes": 828
+    },
+    {
+      "candidate": "Janet White",
+      "party": "Labour",
+      "votes": 788
+    },
+    {
+      "candidate": "Daniel Rowson",
+      "party": "Labour",
+      "votes": 754
+    },
+    {
+      "candidate": "Mercedes Parr",
+      "party": "Green",
+      "votes": 743
+    },
+    {
+      "candidate": "Lis Radbon",
+      "party": "Green",
+      "votes": 673
+    },
+    {
+      "candidate": "Richard Chown",
+      "party": "Liberal Democrats",
+      "votes": 316
+    },
+    {
+      "candidate": "Luke Murphy",
+      "party": "Liberal Democrats",
+      "votes": 275
+    }
+  ],
+  "Longlands": [
+    {
+      "candidate": "Oscar Harrison",
+      "party": "Conservative",
+      "votes": 1853
+    },
+    {
+      "candidate": "Lisa-Jane Moore*",
+      "party": "Conservative",
+      "votes": 1848
+    },
+    {
+      "candidate": "Alexander Cleak",
+      "party": "Reform",
+      "votes": 1037
+    },
+    {
+      "candidate": "Gary Levett",
+      "party": "Reform",
+      "votes": 999
+    },
+    {
+      "candidate": "Ana Davies",
+      "party": "Labour",
+      "votes": 537
+    },
+    {
+      "candidate": "Anita Paris",
+      "party": "Green",
+      "votes": 453
+    },
+    {
+      "candidate": "Christine Landman",
+      "party": "Labour",
+      "votes": 438
+    },
+    {
+      "candidate": "David Paris",
+      "party": "Green",
+      "votes": 354
+    },
+    {
+      "candidate": "Julian Baxter",
+      "party": "Liberal Democrats",
+      "votes": 172
+    },
+    {
+      "candidate": "Paul Hurren",
+      "party": "Liberal Democrats",
+      "votes": 168
+    }
+  ],
+  "Northumberland Heath": [
+    {
+      "candidate": "Sean Brackstone",
+      "party": "Reform",
+      "votes": 1302
+    },
+    {
+      "candidate": "Chris Purfield",
+      "party": "Reform",
+      "votes": 1207
+    },
+    {
+      "candidate": "Baljeet Gill*",
+      "party": "Labour",
+      "votes": 1038
+    },
+    {
+      "candidate": "Temilola Stewart",
+      "party": "Labour",
+      "votes": 885
+    },
+    {
+      "candidate": "Marcio Fasano",
+      "party": "Conservative",
+      "votes": 702
+    },
+    {
+      "candidate": "Unisa Sesay",
+      "party": "Conservative",
+      "votes": 614
+    },
+    {
+      "candidate": "Daniel Stamp",
+      "party": "Green",
+      "votes": 404
+    },
+    {
+      "candidate": "Thomas Phillips",
+      "party": "Liberal Democrats",
+      "votes": 187
+    },
+    {
+      "candidate": "Paul Bargery",
+      "party": "Liberal Democrats",
+      "votes": 174
+    }
+  ],
+  "Sidcup": [
+    {
+      "candidate": "Terry Barcock",
+      "party": "Conservative",
+      "votes": 2318
+    },
+    {
+      "candidate": "June Slaughter",
+      "party": "Conservative",
+      "votes": 2267
+    },
+    {
+      "candidate": "Andy Curtois",
+      "party": "Conservative",
+      "votes": 2052
+    },
+    {
+      "candidate": "Daniel Martin",
+      "party": "Reform",
+      "votes": 1404
+    },
+    {
+      "candidate": "Ranw Aso-rashid",
+      "party": "Reform",
+      "votes": 1312
+    },
+    {
+      "candidate": "Daniel Kersten",
+      "party": "Reform",
+      "votes": 1293
+    },
+    {
+      "candidate": "Laurence Williams",
+      "party": "Green",
+      "votes": 687
+    },
+    {
+      "candidate": "Julian Himmerich",
+      "party": "Green",
+      "votes": 663
+    },
+    {
+      "candidate": "Jo Chodha",
+      "party": "Labour",
+      "votes": 632
+    },
+    {
+      "candidate": "John Cove",
+      "party": "Labour",
+      "votes": 628
+    },
+    {
+      "candidate": "Tonya Kelsey",
+      "party": "Labour",
+      "votes": 628
+    },
+    {
+      "candidate": "Inke Schreiber",
+      "party": "Green",
+      "votes": 601
+    },
+    {
+      "candidate": "Sue Petty",
+      "party": "Independent",
+      "votes": 464
+    },
+    {
+      "candidate": "Tristan Lowne",
+      "party": "Liberal Democrats",
+      "votes": 238
+    },
+    {
+      "candidate": "David Merry",
+      "party": "Liberal Democrats",
+      "votes": 222
+    },
+    {
+      "candidate": "Dimitri Shvorob",
+      "party": "Working for Sidcup",
+      "votes": 191
+    }
+  ],
+  "Slade Green & Northend": [
+    {
+      "candidate": "Stefano Borella",
+      "party": "Labour",
+      "votes": 1106
+    },
+    {
+      "candidate": "Donna Briant",
+      "party": "Labour",
+      "votes": 1033
+    },
+    {
+      "candidate": "John McDermont",
+      "party": "Reform",
+      "votes": 1032
+    },
+    {
+      "candidate": "Bright Uwhokori",
+      "party": "Reform",
+      "votes": 976
+    },
+    {
+      "candidate": "Bimpe Adepoju",
+      "party": "Conservative",
+      "votes": 566
+    },
+    {
+      "candidate": "Sarah Frost",
+      "party": "Green",
+      "votes": 553
+    },
+    {
+      "candidate": "Adam Rook",
+      "party": "Conservative",
+      "votes": 442
+    },
+    {
+      "candidate": "Mark Robson",
+      "party": "Liberal Democrats",
+      "votes": 186
+    }
+  ],
+  "St Mary's & St James": [
+    {
+      "candidate": "Kurtis Christoforides",
+      "party": "Conservative",
+      "votes": 2363
+    },
+    {
+      "candidate": "Cameron Smith",
+      "party": "Conservative",
+      "votes": 2293
+    },
+    {
+      "candidate": "Simon Francis",
+      "party": "Reform",
+      "votes": 943
+    },
+    {
+      "candidate": "Garret Lynch",
+      "party": "Reform",
+      "votes": 872
+    },
+    {
+      "candidate": "Rob Davies",
+      "party": "Green",
+      "votes": 447
+    },
+    {
+      "candidate": "Victoria Hart",
+      "party": "Labour",
+      "votes": 390
+    },
+    {
+      "candidate": "Marko Minka",
+      "party": "Green",
+      "votes": 351
+    },
+    {
+      "candidate": "Sophia Parr",
+      "party": "Labour",
+      "votes": 334
+    },
+    {
+      "candidate": "Oliver Brooks",
+      "party": "Liberal Democrats",
+      "votes": 176
+    },
+    {
+      "candidate": "David Sexton",
+      "party": "Liberal Democrats",
+      "votes": 119
+    }
+  ],
+  "Thamesmead East": [
+    {
+      "candidate": "Zainab Asunramu",
+      "party": "Labour",
+      "votes": 1460
+    },
+    {
+      "candidate": "Larry Ferguson",
+      "party": "Labour",
+      "votes": 1361
+    },
+    {
+      "candidate": "Abi Johnson",
+      "party": "Labour",
+      "votes": 1346
+    },
+    {
+      "candidate": "Jonathan Rooks",
+      "party": "Green",
+      "votes": 745
+    },
+    {
+      "candidate": "Lee Delaney",
+      "party": "Reform",
+      "votes": 700
+    },
+    {
+      "candidate": "Matthew Solo",
+      "party": "Reform",
+      "votes": 658
+    },
+    {
+      "candidate": "Tom Staples",
+      "party": "Reform",
+      "votes": 643
+    },
+    {
+      "candidate": "Angela Gillespie",
+      "party": "Conservative",
+      "votes": 396
+    },
+    {
+      "candidate": "Allison Hartshorn",
+      "party": "Conservative",
+      "votes": 347
+    },
+    {
+      "candidate": "Graham Moon",
+      "party": "Conservative",
+      "votes": 325
+    },
+    {
+      "candidate": "Ayo Mohammed",
+      "party": "Liberal Democrats",
+      "votes": 274
+    }
+  ],
+  "West Heath": [
+    {
+      "candidate": "Thomas Clapperton",
+      "party": "Conservative",
+      "votes": 2329
+    },
+    {
+      "candidate": "Eliot Smith",
+      "party": "Conservative",
+      "votes": 2198
+    },
+    {
+      "candidate": "Sue Ford",
+      "party": "Reform",
+      "votes": 2130
+    },
+    {
+      "candidate": "Melvin Seymour*",
+      "party": "Conservative",
+      "votes": 2121
+    },
+    {
+      "candidate": "Ian Rowlands",
+      "party": "Reform",
+      "votes": 2010
+    },
+    {
+      "candidate": "David Simmons",
+      "party": "Reform",
+      "votes": 2006
+    },
+    {
+      "candidate": "Ahmad Brooke",
+      "party": "Labour",
+      "votes": 1207
+    },
+    {
+      "candidate": "Katty Sillah",
+      "party": "Labour",
+      "votes": 1176
+    },
+    {
+      "candidate": "Ray Williams",
+      "party": "Labour",
+      "votes": 1076
+    },
+    {
+      "candidate": "Stuart Carter",
+      "party": "Green",
+      "votes": 795
+    },
+    {
+      "candidate": "Andrew Kellett",
+      "party": "Liberal Democrats",
+      "votes": 412
+    }
+  ]
+}

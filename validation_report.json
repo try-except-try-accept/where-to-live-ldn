@@ -1,0 +1,452 @@
+{
+  "total_councils": 32,
+  "valid_councils": 19,
+  "invalid_councils": 13,
+  "details": {
+    "Barking_and_Dagenham_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 19,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Abbey": [
+          "Invalid ward name format"
+        ],
+        "Beam": [
+          "Invalid ward name format"
+        ],
+        "Heath": [
+          "Invalid ward name format"
+        ]
+      }
+    },
+    "Barnet_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 24,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Bexley_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 17,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Erith": [
+          "Invalid ward name format"
+        ]
+      }
+    },
+    "Brent_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Bromley_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Camden_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 20,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Croydon_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 28,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Ealing_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 24,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Enfield_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 25,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Haselbury(3)": [
+          "Candidate 17: Malformed party 'Communist League Election Campaign'"
+        ],
+        "Highfield(2)": [
+          "Candidate 9: Malformed candidate name 'Duarte Goncalves Dias da Silva'"
+        ]
+      }
+    },
+    "Greenwich_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Hackney_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 21,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Hammersmith_and_Fulham_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 21,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Grove": [
+          "Invalid ward name format"
+        ]
+      }
+    },
+    "Haringey_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 21,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Harrow_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Havering_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 20,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Hillingdon_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 3,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''",
+          "Candidate 4: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''",
+          "Candidate 4: Malformed party ''"
+        ],
+        "Council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''",
+          "Candidate 4: Malformed party ''"
+        ]
+      }
+    },
+    "Hounslow_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Islington_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 3,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Previous council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ]
+      }
+    },
+    "Kensington_and_Chelsea_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 18,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Kingston_upon_Thames_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 19,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Tudor": [
+          "Invalid ward name format"
+        ]
+      }
+    },
+    "Lambeth_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 10,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "History": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Changes since 2022": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "By-elections": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Affiliation changes": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Brixton Windrush": [
+          "Candidate 0: Malformed candidate name '39'",
+          "Candidate 0: Malformed party '5311'"
+        ],
+        "Streatham St Leonard's": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Waterloo and South Bank": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ]
+      }
+    },
+    "Lewisham_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 19,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Merton_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 20,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Abbey": [
+          "Invalid ward name format"
+        ]
+      }
+    },
+    "Newham_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 24,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Redbridge_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Richmond_upon_Thames_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 6,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "History": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Council term": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Electoral process": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ],
+        "Previous council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''"
+        ]
+      }
+    },
+    "Southwark_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 6,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed candidate name ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed candidate name ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "History": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed candidate name ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Council term": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed candidate name ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Electoral process": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed candidate name ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed candidate name ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed candidate name ''",
+          "Candidate 3: Malformed party ''"
+        ]
+      }
+    },
+    "Sutton_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 3,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ],
+        "Previous council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''"
+        ]
+      }
+    },
+    "Tower_Hamlets_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 20,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Waltham_Forest_London_Borough_Council_election.json": {
+      "valid": false,
+      "total_wards": 3,
+      "wards_without_data": [],
+      "wards_with_issues": {
+        "Contents": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''",
+          "Candidate 4: Malformed party ''"
+        ],
+        "Background": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''",
+          "Candidate 4: Malformed party ''"
+        ],
+        "Previous council composition": [
+          "Candidate 0: Malformed party ''",
+          "Candidate 1: Malformed party ''",
+          "Candidate 2: Malformed party ''",
+          "Candidate 3: Malformed party ''",
+          "Candidate 4: Malformed party ''"
+        ]
+      }
+    },
+    "Wandsworth_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 22,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    },
+    "Westminster_London_Borough_Council_election.json": {
+      "valid": true,
+      "total_wards": 18,
+      "wards_without_data": [],
+      "wards_with_issues": {}
+    }
+  }
+}

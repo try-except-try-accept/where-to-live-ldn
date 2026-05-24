@@ -1,0 +1,321 @@
+Beddington
+Beddington (3)[16] Party 	Candidate 	Votes 	% 	±%
+	Independent 	Nick Mattey 	1,316 		
+	Liberal Democrats 	Sue Ebanks 	1,220 		
+	Liberal Democrats 	Rob Leah 	1,202 		
+	Independent 	Tim Foster 	1,188 		
+	Independent 	Tim Crowley 	1,153 		
+	Liberal Democrats 	Chante O'Shaughnessy 	1,075 		
+	Reform 	Barrie Collins 	669 		
+	Reform 	Lesley Smith 	617 		
+	Reform 	Christine Trenholme 	564 		
+	Green 	Annabelle Bouilov 	391 		
+	Green 	Michael Boulton 	331 		
+	Green 	Helen Didymus-True 	327 		
+	Labour 	Allan Black 	291 		
+	Conservative 	Alison Huneke 	285 		
+	Labour 	Sarah Gwynn 	273 		
+	Conservative 	John Rawlinson 	267 		
+	Labour 	Ian Turner 	230 		
+	Conservative 	Julia Szucs 	220 		
+Belmont
+Belmont (3)[17] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Chandra Alapati 	2,130 		
+	Liberal Democrats 	Joseph Barkham 	1,888 		
+	Liberal Democrats 	Rashi Barsaiyan 	1,819 		
+	Conservative 	Neil Garratt 	1,284 		
+	Conservative 	Mukesh Rao 	1,236 		
+	Conservative 	Lily Bande 	1,143 		
+	Reform 	Paul Campbell 	719 		
+	Reform 	Adrian Noble 	642 		
+	Reform 	William Smith 	613 		
+	Green 	Virginia Fuster-Velert 	445 		
+	Green 	Libby Standbridge 	419 		
+	Green 	August Wood 	353 		
+	Labour 	Marian Wingrove 	201 		
+	Labour 	Gale Blears 	181 		
+	Labour 	Elaine Kwamin 	175 		
+Carshalton Central
+Carshalton Central (3)[18] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Andrew Jenner 	2,459 		
+	Liberal Democrats 	Isabel Araujo 	2,398 		
+	Liberal Democrats 	Jake Short 	2,392 		
+	Reform 	Angela Ellis-Jones 	809 		
+	Reform 	Barry Greening 	757 		
+	Reform 	Lauren Simpson 	745 		
+	Green 	Verity Thomson 	673 		
+	Conservative 	Derek Fitzgibbons 	607 		
+	Conservative 	Jill Sparks 	605 		
+	Conservative 	Graham Johnson 	563 		
+	Green 	Andrew Coghill 	525 		
+	Green 	Peter Friel 	453 		
+	Labour Co-op 	Marilynne Burbage 	220 		
+	Labour Co-op 	Pat McCarthy 	166 		
+	Labour Co-op 	Peter Turner 	135 		
+	CPA 	Ashley Dickenson 	86 		
+Carshalton South & Clockhouse
+Carshalton South & Clockhouse (3)[19] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Lisa Webster 	1,966 		
+	Liberal Democrats 	Peter Chubb 	1,837 		
+	Liberal Democrats 	Noor Sumun 	1,697 		
+	Conservative 	Moira Butt 	1,310 		
+	Conservative 	Chris Da Cruz 	1,149 		
+	Conservative 	Pushpa Murthy 	929 		
+	Reform 	Thomas Berry 	750 		
+	Reform 	Arlene Dearlove 	685 		
+	Reform 	Mark O'Callaghan 	626 		
+	Green 	Chris Byrne 	341 		
+	Green 	Paul McCarthy 	275 		
+	Green 	Barrie Standridge 	216 		
+	Labour 	Frank Cooper 	163 		
+	Labour 	Aileen Neal 	130 		
+	Labour 	Albert Morris 	118 		
+Cheam
+Cheam (3)[20] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Stephen Kingdom 	1,875 		
+	Liberal Democrats 	Melody Thorpe 	1,794 		
+	Liberal Democrats 	Shimino Jesudas 	1,761 		
+	Conservative 	Tom Drummond 	1,339 		
+	Conservative 	Eric Allen 	1,336 		
+	Conservative 	Tony Shields 	1,295 		
+	Reform 	Ann Harris 	831 		
+	Reform 	Clive Palmer 	777 		
+	Reform 	Siobhan Ritson 	732 		
+	Green 	Lauryn Jones 	356 		
+	Green 	Rebecca Perry 	336 		
+	Green 	James Nolan 	289 		
+	Labour 	Alan Aylward 	155 		
+	Labour 	Dave Owen 	124 		
+	Labour 	Jonathan Offen 	114 		
+Hackbridge
+Hackbridge (2)[21] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Tom Foster 	820 		
+	Labour Co-op 	Dave Tchil 	726 		
+	Liberal Democrats 	Brendan Hudson 	654 		
+	Labour Co-op 	Margaret Thomas 	522 		
+	Reform 	Danny Davison 	436 		
+	Reform 	Vijay Vashistha 	383 		
+	Green 	Tanya Fernandes 	278 		
+	Green 	Rubie Kelly 	236 		
+	Conservative 	Alan Plant 	210 		
+	Conservative 	Aephaniel Owusu-Agyemang 	144 		
+North Cheam
+North Cheam (3)[22] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	James Appleby 	1,844 		
+	Liberal Democrats 	Naveen Samrat 	1,823 		
+	Liberal Democrats 	Jason Stone 	1,697 		
+	Reform 	Joanna Bishop 	1,112 		
+	Reform 	Natasha Fowler 	1,066 		
+	Conservative 	Param Nandha 	1,048 		
+	Reform 	Angus Dalgleish 	1,012 		
+	Conservative 	Michael Dwyer 	985 		
+	Conservative 	James McDermott-Hill 	926 		
+	Green 	Chantel Campbell 	420 		
+	Green 	Harry Hewing 	317 		
+	Green 	Kieron Marshall 	256 		
+	Labour 	Joan Bronkhorst 	212 		
+	Labour 	Eleanor Jackson 	190 		
+	Labour 	Ann Morrison 	164 		
+South Beddington & Roundshaw
+South Beddington and Roundshaw (3)[23] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Edward Joyce 	1,678 		
+	Liberal Democrats 	Sunil Kumar 	1,662 		
+	Liberal Democrats 	Judy Walsh 	1,527 		
+	Reform 	John Fenn 	925 		
+	Reform 	Dale Stacey 	905 		
+	Reform 	Paolo Standerwick 	865 		
+	Conservative 	Tim Green 	487 		
+	Conservative 	Sinead Byrne 	480 		
+	Conservative 	Anthea Winterton 	431 		
+	Green 	Dave Pettit 	282 		
+	Green 	Luke Richardson 	267 		
+	Green 	Michael Tomlinson 	226 		
+	Labour 	John Clay 	207 		
+	Labour 	Beresford Caramba-Coker 	174 		
+	Labour 	Mark Rogers 	170 		
+St Helier East
+St Helier East (2)[24] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Paul Cole 	906 		
+	Liberal Democrats 	Gemma Munday 	894 		
+	Reform 	Dominic O'Shea 	652 		
+	Reform 	Lucy O'Shea 	643 		
+	Green 	Andy Acton 	278 		
+	Green 	Dylan Acton 	238 		
+	Conservative 	Vincentia Pratt 	203 		
+	Labour 	James Bensberg 	191 		
+	Conservative 	Alan Swinton 	184 		
+	Labour 	Alan Tate 	149 		
+St Helier West
+St Helier West (3)[25] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Joicy Joseph 	1,038 		
+	Reform 	Janey Gould 	1,021 		
+	Reform 	Alison Long 	1,018 		
+	Liberal Democrats 	Dean Juster 	1,014 		
+	Reform 	Trevor Smith 	988 		
+	Liberal Democrats 	Parveen Kumar 	927 		
+	Conservative 	Steve Alvarez 	558 		
+	Conservative 	Wendy Clark 	532 		
+	Green 	Abdul Khan 	495 		
+	Conservative 	Martin Bustamante 	485 		
+	Green 	Harriet Napolitano 	459 		
+	Green 	Daniel Rayner 	407 		
+	Labour 	Jesh Abraham 	281 		
+	Labour 	Kingsley Abrams 	279 		
+	Labour 	Nick Eaves 	260 		
+Stonecot
+Stonecot (2)[26] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Rob Beck 	1,404 		
+	Liberal Democrats 	Cumar Sahathevan 	1,222 		
+	Reform 	James King 	631 		
+	Reform 	Ian Williams 	584 		
+	Conservative 	Vikki Shields 	459 		
+	Conservative 	Arif Syed 	388 		
+	Green 	Leah Millington 	250 		
+	Green 	Iffat Saboor 	200 		
+	Labour Co-op 	Jane Davies 	184 		
+	Labour Co-op 	Jim Hanson 	129 		
+Sutton Central
+Sutton Central (3)[27] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Richard Choi 	1,745 		
+	Liberal Democrats 	Ed Parsley 	1,537 		
+	Liberal Democrats 	Cryss Mennaceur 	1,471 		
+	Green 	Helen John 	840 		
+	Green 	Doug Shaw 	655 		
+	Green 	Hannah White 	648 		
+	Reform 	Rob Ewing 	587 		
+	Reform 	Stewart Wood 	565 		
+	Reform 	Haoyu Zhang 	513 		
+	Conservative 	Jeanne Hornshaw 	334 		
+	Labour 	Chantelle Donkor 	290 		
+	Conservative 	Barry Russell 	288 		
+	Conservative 	Paul Whitcher 	288 		
+	Labour 	Paul Harrison 	245 		
+	Labour 	Kerrie Peek 	244 		
+Sutton North
+Sutton North (3)[28] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Sam Cumber 	1,846 		
+	Liberal Democrats 	Vanessa McCain 	1,761 		
+	Liberal Democrats 	Yusuf Abd El-Razzak 	1,640 		
+	Reform 	Bob Lampard 	856 		
+	Reform 	Edward Mills 	796 		
+	Reform 	Bill Main-Ian 	773 		
+	Conservative 	Blake Purchase 	648 		
+	Conservative 	Tony Sphikas 	579 		
+	Conservative 	Aamir Haroon 	544 		
+	Green 	Genevieve White 	447 		
+	Green 	Toby McGuinness 	420 		
+	Green 	Wesley Witt 	327 		
+	Labour 	Kehinde Akintunde 	262 		
+	Labour 	Lyndon Edwards 	257 		
+	Labour 	Mark Simmonds 	244 		
+Sutton South
+Sutton South (3)[29] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Richard Clifton 	2,004 		
+	Liberal Democrats 	Trish Fivey 	1,922 		
+	Liberal Democrats 	Asif Hirani 	1,661 		
+	Conservative 	Manish Bhalla 	861 		
+	Conservative 	Alexander Coker 	776 		
+	Conservative 	Michael Mortimore 	767 		
+	Reform 	Ian Drury 	562 		
+	Reform 	Pamela Peller 	548 		
+	Reform 	Taaha Ahmed 	498 		
+	Green 	Amy Bryce 	439 		
+	Green 	Fraser Brough 	390 		
+	Green 	Ross Jones 	343 		
+	Labour 	Sandra Buck 	246 		
+	Labour 	Tessa Cornell 	224 		
+	Labour 	Graham Terrell 	194 		
+Sutton West & East Cheam
+Sutton West & East Cheam (3)[30] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Louise Phelan 	2,063 		
+	Liberal Democrats 	Christopher Woolmer 	1,967 		
+	Liberal Democrats 	Qasim Esak 	1,887 		
+	Reform 	Dan Lawes 	701 		
+	Reform 	Alison Sinclair 	694 		
+	Reform 	Harry Robinson 	688 		
+	Conservative 	Sarah Hornshaw 	631 		
+	Conservative 	Stephen Read 	576 		
+	Conservative 	Natkunam Wimalendran 	493 		
+	Green 	James Beckley 	413 		
+	Green 	Firat Bas 	399 		
+	Green 	James Kelly 	397 		
+	Labour 	Victoria Barlow 	298 		
+	Labour 	Michael McMahon 	191 		
+	Labour 	Peter Queally 	170 		
+The Wrythe
+The Wrythe (3)[31] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Colin Stears 	1,633 		
+	Liberal Democrats 	Rukhsar Askari 	1,593 		
+	Liberal Democrats 	Ian Simpson 	1,593 		
+	Reform 	Ethan Smith 	944 		
+	Reform 	Rohit Kaila 	910 		
+	Reform 	Jack Vallins 	901 		
+	Conservative 	Terry Woods 	462 		
+	Green 	Peter Greig 	448 		
+	Conservative 	Debra Russell 	446 		
+	Green 	Jack Holdawanski 	386 		
+	Conservative 	Rahul Yadav 	371 		
+	Green 	Robert Walker 	368 		
+	Labour 	Michael Cawley 	236 		
+	Labour 	David Grant 	228 		
+	Labour 	Maria Qanita 	217 		
+	Independent 	Patrick Ogbonna 	130 		
+Wallington North
+Wallington North (3)[32] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Sunita Gordon 	1,976 		
+	Liberal Democrats 	Aaron Goater 	1,910 		
+	Liberal Democrats 	Barry Lewis 	1,842 		
+	Reform 	Peter Cox 	957 		
+	Reform 	Jason Champaneri 	925 		
+	Reform 	Leo Rose 	865 		
+	Green 	Maeve Tomlinson 	469 		
+	Conservative 	Joseph D'Costa 	449 		
+	Green 	John Keys 	445 		
+	Conservative 	Jack Richardson 	437 		
+	Green 	Samia Tossio 	402 		
+	Conservative 	Barbara Woods 	402 		
+	Labour 	Tim Featherstone-Griffin 	263 		
+	Labour 	Judith Hawkins 	242 		
+	Labour 	Mary Towler 	228 		
+	Independent 	Celeste Narywonczyk 	110 		
+Wallington South
+Wallington South (3)[33] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Jayne McCoy 	1,990 		
+	Liberal Democrats 	Sam Martin 	1,897 		
+	Liberal Democrats 	Muhammad Sadiq 	1,785 		
+	Reform 	Heather Mann 	705 		
+	Reform 	David Sykes 	704 		
+	Reform 	David Taffurelli 	651 		
+	Green 	Eliot Carroll 	553 		
+	Conservative 	Christopher Wortley 	527 		
+	Conservative 	Hilary Wortley 	488 		
+	Conservative 	Jim Simms 	483 		
+	Green 	Chris Donnelly 	468 		
+	Green 	Cat Ebongalame 	467 		
+	Labour 	John Ashton 	248 		
+	Labour 	Teresa Ayoub 	212 		
+	Labour 	Jennifer Vidler 	171 		
+Worcester Park North
+Worcester Park North (2)[34] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Joanna Elgarf 	1,262 		
+	Liberal Democrats 	Israel Owoade 	1,059 		
+	Conservative 	Radley Cunliffe 	618 		
+	Conservative 	Jo Martin 	583 		
+	Reform 	Deborah Scully 	561 		
+	Reform 	Moira Standerwick 	530 		
+	Green 	Kirsty Nelson 	356 		
+	Green 	Julie Stamford 	293 		
+	Labour 	John Flowers 	199 		
+	Labour 	Natalie Wright 	169 		
+Worcester Park South
+Worcester Park South (2)[35] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Jenna Hartley-Smith 	1,469 		
+	Liberal Democrats 	Luni Sabharwal 	1,318 		
+	Reform 	Karin Burke 	699 		
+	Reform 	Judy Urmossy 	621 		
+	Conservative 	Martina Allen 	639 		
+	Conservative 	Peter Geiringer 	577 		
+	Green 	Anna Mora 	231 		
+	Green 	Ganesh Sathyamoorthy 	223 		
+	Labour 	Jessica Parker 	115 		
+	Labour 	George Gallant 	112 	

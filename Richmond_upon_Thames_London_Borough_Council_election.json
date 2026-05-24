@@ -1,0 +1,84 @@
+{
+  "Single Table Results": [
+    {
+      "candidate": "3,974",
+      "party": "51.64",
+      "votes": 1
+    },
+    {
+      "candidate": "4,123",
+      "party": "51.34",
+      "votes": 4
+    },
+    {
+      "candidate": "3,909",
+      "party": "52.18",
+      "votes": 7
+    },
+    {
+      "candidate": "3,990",
+      "party": "53.54",
+      "votes": 3
+    },
+    {
+      "candidate": "4,118",
+      "party": "50.71",
+      "votes": 1
+    },
+    {
+      "candidate": "3,266",
+      "party": "44.47",
+      "votes": 1
+    },
+    {
+      "candidate": "4,365",
+      "party": "51.29",
+      "votes": 3
+    },
+    {
+      "candidate": "4,365",
+      "party": "52.04",
+      "votes": 4
+    },
+    {
+      "candidate": "3,685",
+      "party": "47.90",
+      "votes": 1
+    },
+    {
+      "candidate": "3,907",
+      "party": "50.14",
+      "votes": 1
+    },
+    {
+      "candidate": "4,294",
+      "party": "56.99",
+      "votes": 6
+    },
+    {
+      "candidate": "4,228",
+      "party": "50.34",
+      "votes": 2
+    },
+    {
+      "candidate": "4,397",
+      "party": "54.11",
+      "votes": 4
+    },
+    {
+      "candidate": "4,082",
+      "party": "50.43",
+      "votes": 3
+    },
+    {
+      "candidate": "3,895",
+      "party": "49.22",
+      "votes": 3
+    },
+    {
+      "candidate": "3,838",
+      "party": "50.04",
+      "votes": 2
+    }
+  ]
+}

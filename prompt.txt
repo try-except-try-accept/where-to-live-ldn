@@ -1,0 +1,46 @@
+We are trying to successfully scrape london borough May 2026 council election results from Wikipedia
+
+we are writing the result of each page (councils are listed in london_councils.txt) to a json file
+
+extract_elections.py is the the code we are working on
+
+an example of a successfully completed download is Hackney_London_Borough_Council_election.json
+
+i do not need you to redownload the data for councils that have already successfully been downloaded
+
+please iterate through problem_councils.txt
+
+each council that has problems has a txt file downloaded of the wikipedia tabular data
+
+you just need to parse the data on the text file and turn it into json to match the already completed successful Fields
+
+here is an example
+
+Richmond_upon_Thames_London_Borough_Council_election.txt contains these lines
+
+Barnes
+Barnes (3 seats)[10][11] Party 	Candidate 	Votes 	% 	±%
+	Liberal Democrats 	Fiona Sacks* 	1,800 	45.4 	−6.3
+	Liberal Democrats 	Andy Hale* 	1,728 	43.6 	−6.2
+
+
+this should be parsed and written to Richmond_upon_Thames_London_Borough_Council_election.json in this format:
+
+{
+  "Barnes": [
+    {
+      "candidate": "Fiona Sacks",
+      "party": "Liberal Democrats",
+      "votes": 1800
+    },
+    {
+      "candidate": "Andy Hale",
+      "party": "Liberal Democrats",
+      "votes": 1728
+    }
+  ]
+}
+
+note there may be extraneous text, labels or data that needs to be ignored.
+
+if you are not certain what the name of the ward is (the key in the object) please ask for clarification

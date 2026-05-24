@@ -1,0 +1,1607 @@
+{
+  "Bethnal Green East": [
+    {
+      "candidate": "Syed Abdullah",
+      "party": "Aspire",
+      "votes": 2371
+    },
+    {
+      "candidate": "Ahmodul Kabir*",
+      "party": "Aspire",
+      "votes": 2177
+    },
+    {
+      "candidate": "Halima Islam",
+      "party": "Aspire",
+      "votes": 2123
+    },
+    {
+      "candidate": "Rebecca Binns",
+      "party": "Green",
+      "votes": 1922
+    },
+    {
+      "candidate": "Rebekah Sultana*",
+      "party": "Labour",
+      "votes": 1683
+    },
+    {
+      "candidate": "Harriet Walsh",
+      "party": "Green",
+      "votes": 1641
+    },
+    {
+      "candidate": "Liam McQuade",
+      "party": "Green",
+      "votes": 1596
+    },
+    {
+      "candidate": "Nazma Hussain",
+      "party": "Labour",
+      "votes": 1526
+    },
+    {
+      "candidate": "Martin Nesbit",
+      "party": "Labour",
+      "votes": 1207
+    },
+    {
+      "candidate": "Gareth Thomas",
+      "party": "Reform",
+      "votes": 505
+    },
+    {
+      "candidate": "Richard Trounson",
+      "party": "Conservative",
+      "votes": 249
+    },
+    {
+      "candidate": "Freda Graf",
+      "party": "Liberal Democrats",
+      "votes": 218
+    },
+    {
+      "candidate": "Ana Campillo",
+      "party": "Conservative",
+      "votes": 211
+    },
+    {
+      "candidate": "Md Ahmed",
+      "party": "Tower Hamlets Independents",
+      "votes": 194
+    },
+    {
+      "candidate": "Marc Pisanski",
+      "party": "Conservative",
+      "votes": 183
+    },
+    {
+      "candidate": "Fraser King",
+      "party": "Liberal Democrats",
+      "votes": 178
+    },
+    {
+      "candidate": "Md Kamruzzaman",
+      "party": "Tower Hamlets Independents",
+      "votes": 163
+    },
+    {
+      "candidate": "Muhebul Hasan",
+      "party": "Tower Hamlets Independents",
+      "votes": 136
+    },
+    {
+      "candidate": "Rizgar Khourshid",
+      "party": "Liberal Democrats",
+      "votes": 110
+    },
+    {
+      "candidate": "Robbie Davidson",
+      "party": "TUSC",
+      "votes": 93
+    },
+    {
+      "candidate": "Adham Alkhatip",
+      "party": "The Forward Party",
+      "votes": 12
+    }
+  ],
+  "Bethnal Green West": [
+    {
+      "candidate": "Abu Chowdhury*",
+      "party": "Aspire",
+      "votes": 2452
+    },
+    {
+      "candidate": "Musthak Ahmed*",
+      "party": "Aspire",
+      "votes": 2445
+    },
+    {
+      "candidate": "Amin Rahman*",
+      "party": "Aspire",
+      "votes": 2275
+    },
+    {
+      "candidate": "Mae Dobbs",
+      "party": "Green",
+      "votes": 2139
+    },
+    {
+      "candidate": "Chelsea Omoogun",
+      "party": "Green",
+      "votes": 1875
+    },
+    {
+      "candidate": "Ted Maxwell",
+      "party": "Independent",
+      "votes": 1383
+    },
+    {
+      "candidate": "Carmie Greusard-Deffeuille",
+      "party": "Labour",
+      "votes": 1218
+    },
+    {
+      "candidate": "Tarik Khan",
+      "party": "Labour",
+      "votes": 1191
+    },
+    {
+      "candidate": "Gulay Icoz",
+      "party": "Labour",
+      "votes": 922
+    },
+    {
+      "candidate": "Graham Wild",
+      "party": "Reform",
+      "votes": 364
+    },
+    {
+      "candidate": "Peter Bowring",
+      "party": "Conservative",
+      "votes": 262
+    },
+    {
+      "candidate": "Paula Palmer",
+      "party": "Liberal Democrats",
+      "votes": 255
+    },
+    {
+      "candidate": "Muhibul Hoque",
+      "party": "Tower Hamlets Independents",
+      "votes": 237
+    },
+    {
+      "candidate": "Avi Islam",
+      "party": "Tower Hamlets Independents",
+      "votes": 236
+    },
+    {
+      "candidate": "Clive Heemskerk",
+      "party": "TUSC",
+      "votes": 209
+    },
+    {
+      "candidate": "Warwick Danks",
+      "party": "Liberal Democrats",
+      "votes": 196
+    },
+    {
+      "candidate": "Nasir Jilani",
+      "party": "Tower Hamlets Independents",
+      "votes": 186
+    },
+    {
+      "candidate": "Ahmed Ahmed",
+      "party": "Conservative",
+      "votes": 150
+    },
+    {
+      "candidate": "Sundar Joshi",
+      "party": "Liberal Democrats",
+      "votes": 146
+    },
+    {
+      "candidate": "Ahmedur Rahman",
+      "party": "Conservative",
+      "votes": 100
+    }
+  ],
+  "Blackwall & Cubitt Town": [
+    {
+      "candidate": "Bellal Uddin*",
+      "party": "Aspire",
+      "votes": 1477
+    },
+    {
+      "candidate": "Ahmodur Khan*",
+      "party": "Aspire",
+      "votes": 1432
+    },
+    {
+      "candidate": "Minara Khatun",
+      "party": "Aspire",
+      "votes": 1386
+    },
+    {
+      "candidate": "Andrew Wood",
+      "party": "Independent",
+      "votes": 1183
+    },
+    {
+      "candidate": "Smrity Azad",
+      "party": "Labour",
+      "votes": 1105
+    },
+    {
+      "candidate": "Hakan Bas",
+      "party": "Green",
+      "votes": 1032
+    },
+    {
+      "candidate": "Alex Stanley",
+      "party": "Labour",
+      "votes": 976
+    },
+    {
+      "candidate": "Gary O'Leary",
+      "party": "Green",
+      "votes": 879
+    },
+    {
+      "candidate": "Anwar  Punekar",
+      "party": "Labour",
+      "votes": 804
+    },
+    {
+      "candidate": "Catherine Prescott",
+      "party": "Reform",
+      "votes": 684
+    },
+    {
+      "candidate": "Richard Tudor",
+      "party": "Reform",
+      "votes": 679
+    },
+    {
+      "candidate": "Katherine Walsh",
+      "party": "Reform",
+      "votes": 603
+    },
+    {
+      "candidate": "Shelly English",
+      "party": "Liberal Democrats",
+      "votes": 527
+    },
+    {
+      "candidate": "Lesley Lincoln",
+      "party": "Conservative",
+      "votes": 479
+    },
+    {
+      "candidate": "Richard Flowers",
+      "party": "Liberal Democrats",
+      "votes": 425
+    },
+    {
+      "candidate": "Yeashir Ahmed",
+      "party": "Conservative",
+      "votes": 305
+    },
+    {
+      "candidate": "Idrees Khan",
+      "party": "Conservative",
+      "votes": 275
+    },
+    {
+      "candidate": "Zaheed Ahmed",
+      "party": "Tower Hamlets Independents",
+      "votes": 215
+    },
+    {
+      "candidate": "Shah Muhammad",
+      "party": "Tower Hamlets Independents",
+      "votes": 120
+    },
+    {
+      "candidate": "Airin Sobhan",
+      "party": "Tower Hamlets Independents",
+      "votes": 116
+    }
+  ],
+  "Bow East": [
+    {
+      "candidate": "Mads Churchhouse",
+      "party": "Green",
+      "votes": 2777
+    },
+    {
+      "candidate": "Ottilie Swinyard",
+      "party": "Green",
+      "votes": 2603
+    },
+    {
+      "candidate": "Jonathan Purcell",
+      "party": "Green",
+      "votes": 2550
+    },
+    {
+      "candidate": "Marc Francis*",
+      "party": "Labour Co-op",
+      "votes": 1873
+    },
+    {
+      "candidate": "Amina Ali*",
+      "party": "Labour Co-op",
+      "votes": 1711
+    },
+    {
+      "candidate": "Abdi Mohamed*",
+      "party": "Labour Co-op",
+      "votes": 1385
+    },
+    {
+      "candidate": "Yusuf Abdi",
+      "party": "Aspire",
+      "votes": 1120
+    },
+    {
+      "candidate": "Mansur Hussain",
+      "party": "Aspire",
+      "votes": 1087
+    },
+    {
+      "candidate": "Hamida Juti",
+      "party": "Aspire",
+      "votes": 1068
+    },
+    {
+      "candidate": "John Forster",
+      "party": "Reform",
+      "votes": 559
+    },
+    {
+      "candidate": "Gary Taylor",
+      "party": "Reform",
+      "votes": 517
+    },
+    {
+      "candidate": "Kevin Turner",
+      "party": "Reform",
+      "votes": 444
+    },
+    {
+      "candidate": "Daniel Bond",
+      "party": "Liberal Democrats",
+      "votes": 262
+    },
+    {
+      "candidate": "Md  Chowdhury",
+      "party": "Tower Hamlets Independents",
+      "votes": 186
+    },
+    {
+      "candidate": "Georgie Calle",
+      "party": "Conservative",
+      "votes": 180
+    },
+    {
+      "candidate": "Robin Edwards",
+      "party": "Conservative",
+      "votes": 178
+    },
+    {
+      "candidate": "Dan Lan",
+      "party": "Liberal Democrats",
+      "votes": 170
+    },
+    {
+      "candidate": "Jade Kelly",
+      "party": "Conservative",
+      "votes": 169
+    },
+    {
+      "candidate": "Delwar Hira",
+      "party": "Tower Hamlets Independents",
+      "votes": 140
+    },
+    {
+      "candidate": "Md Islam",
+      "party": "Tower Hamlets Independents",
+      "votes": 131
+    },
+    {
+      "candidate": "Folkert  Veenstra",
+      "party": "Liberal Democrats",
+      "votes": 115
+    },
+    {
+      "candidate": "Naomi Byron",
+      "party": "TUSC",
+      "votes": 76
+    }
+  ],
+  "Bow West": [
+    {
+      "candidate": "Rupert George",
+      "party": "Green",
+      "votes": 1821
+    },
+    {
+      "candidate": "Martin Parker",
+      "party": "Green",
+      "votes": 1506
+    },
+    {
+      "candidate": "Asma Begum*",
+      "party": "Labour Co-op",
+      "votes": 1347
+    },
+    {
+      "candidate": "Kevin Brady",
+      "party": "Labour Co-op",
+      "votes": 1088
+    },
+    {
+      "candidate": "Syed Ahmad",
+      "party": "Aspire",
+      "votes": 1027
+    },
+    {
+      "candidate": "Mohammed Ali",
+      "party": "Aspire",
+      "votes": 1018
+    },
+    {
+      "candidate": "Robin Griffiths",
+      "party": "Reform",
+      "votes": 383
+    },
+    {
+      "candidate": "Debbie Buggs",
+      "party": "Conservative",
+      "votes": 199
+    },
+    {
+      "candidate": "Sayeda Johora",
+      "party": "Tower Hamlets Independents",
+      "votes": 190
+    },
+    {
+      "candidate": "Janet Ludlow",
+      "party": "Liberal Democrats",
+      "votes": 188
+    },
+    {
+      "candidate": "Nick Mitev",
+      "party": "Conservative",
+      "votes": 165
+    },
+    {
+      "candidate": "Momtaz Islam",
+      "party": "Tower Hamlets Independents",
+      "votes": 141
+    },
+    {
+      "candidate": "Tom Kaneko",
+      "party": "Liberal Democrats",
+      "votes": 116
+    }
+  ],
+  "Bromley North": [
+    {
+      "candidate": "Mohammed Ilyas",
+      "party": "Aspire",
+      "votes": 1212
+    },
+    {
+      "candidate": "Abdul Mannan*",
+      "party": "Aspire",
+      "votes": 1205
+    },
+    {
+      "candidate": "Hirra Adeogun",
+      "party": "Green",
+      "votes": 1143
+    },
+    {
+      "candidate": "James Meadway",
+      "party": "Green",
+      "votes": 1000
+    },
+    {
+      "candidate": "Hamim Chowdhury",
+      "party": "Labour",
+      "votes": 791
+    },
+    {
+      "candidate": "Shaheda Rahman",
+      "party": "Labour",
+      "votes": 652
+    },
+    {
+      "candidate": "Abdul Mumin",
+      "party": "Tower Hamlets Independents",
+      "votes": 295
+    },
+    {
+      "candidate": "John Bullard",
+      "party": "Reform",
+      "votes": 232
+    },
+    {
+      "candidate": "Alex Reeves",
+      "party": "Conservative",
+      "votes": 142
+    },
+    {
+      "candidate": "Sheikh Nashar",
+      "party": "Tower Hamlets Independents",
+      "votes": 134
+    },
+    {
+      "candidate": "Simon Herbert",
+      "party": "Liberal Democrats",
+      "votes": 117
+    },
+    {
+      "candidate": "Samia Hersi",
+      "party": "Conservative",
+      "votes": 112
+    },
+    {
+      "candidate": "David Lurie",
+      "party": "Liberal Democrats",
+      "votes": 56
+    },
+    {
+      "candidate": "Lauren Riley",
+      "party": "TUSC",
+      "votes": 35
+    }
+  ],
+  "Bromley South": [
+    {
+      "candidate": "Shubo Hussain*",
+      "party": "Labour",
+      "votes": 1495
+    },
+    {
+      "candidate": "Bodrul  Choudhury*",
+      "party": "Aspire",
+      "votes": 1434
+    },
+    {
+      "candidate": "Masood Rahman",
+      "party": "Aspire",
+      "votes": 1134
+    },
+    {
+      "candidate": "Lynda Ouazar",
+      "party": "Labour",
+      "votes": 878
+    },
+    {
+      "candidate": "Mirren Gidda",
+      "party": "Green",
+      "votes": 796
+    },
+    {
+      "candidate": "Kim Sparks",
+      "party": "Green",
+      "votes": 721
+    },
+    {
+      "candidate": "Liton Ahmed",
+      "party": "Tower Hamlets Independents",
+      "votes": 369
+    },
+    {
+      "candidate": "Ron Packman",
+      "party": "Reform",
+      "votes": 205
+    },
+    {
+      "candidate": "Matt Moorhouse",
+      "party": "Conservative",
+      "votes": 131
+    },
+    {
+      "candidate": "David Snowdon",
+      "party": "Conservative",
+      "votes": 124
+    },
+    {
+      "candidate": "Ian  Burns",
+      "party": "Liberal Democrats",
+      "votes": 116
+    },
+    {
+      "candidate": "Alex Warren",
+      "party": "Liberal Democrats",
+      "votes": 113
+    }
+  ],
+  "Canary Wharf": [
+    {
+      "candidate": "Maium Talukdar*",
+      "party": "Aspire",
+      "votes": 1287
+    },
+    {
+      "candidate": "Saied Ahmed*",
+      "party": "Aspire",
+      "votes": 1244
+    },
+    {
+      "candidate": "Daniel Lynch",
+      "party": "Labour",
+      "votes": 875
+    },
+    {
+      "candidate": "Suzy Stride",
+      "party": "Labour",
+      "votes": 810
+    },
+    {
+      "candidate": "Alexander Bishop",
+      "party": "Green",
+      "votes": 594
+    },
+    {
+      "candidate": "Jon Bidwell",
+      "party": "Reform",
+      "votes": 499
+    },
+    {
+      "candidate": "Alistair Polson",
+      "party": "Green",
+      "votes": 494
+    },
+    {
+      "candidate": "Callum Murphy",
+      "party": "Conservative",
+      "votes": 437
+    },
+    {
+      "candidate": "Luke Williamson",
+      "party": "Reform",
+      "votes": 422
+    },
+    {
+      "candidate": "Dominic Nolan",
+      "party": "Conservative",
+      "votes": 394
+    },
+    {
+      "candidate": "Michael Brand",
+      "party": "Liberal Democrats",
+      "votes": 207
+    },
+    {
+      "candidate": "Finlay Munn",
+      "party": "Liberal Democrats",
+      "votes": 158
+    },
+    {
+      "candidate": "Zahid Hyath",
+      "party": "Tower Hamlets Independents",
+      "votes": 133
+    },
+    {
+      "candidate": "Mo Aboshanab",
+      "party": "Tower Hamlets Independents",
+      "votes": 114
+    }
+  ],
+  "Island Gardens": [
+    {
+      "candidate": "Peter Golds*",
+      "party": "Conservative",
+      "votes": 1206
+    },
+    {
+      "candidate": "Sadiqur Rahman",
+      "party": "Aspire",
+      "votes": 1143
+    },
+    {
+      "candidate": "Syed Ali",
+      "party": "Aspire",
+      "votes": 1095
+    },
+    {
+      "candidate": "David Allison",
+      "party": "Green",
+      "votes": 800
+    },
+    {
+      "candidate": "Matthew Miles",
+      "party": "Conservative",
+      "votes": 756
+    },
+    {
+      "candidate": "Paul Burgess",
+      "party": "Green",
+      "votes": 751
+    },
+    {
+      "candidate": "Mufeedah Bustin*",
+      "party": "Labour",
+      "votes": 616
+    },
+    {
+      "candidate": "Michael Gray",
+      "party": "Reform",
+      "votes": 513
+    },
+    {
+      "candidate": "Ken Murphy",
+      "party": "Labour",
+      "votes": 494
+    },
+    {
+      "candidate": "Ahmed Ibrahim",
+      "party": "Reform",
+      "votes": 341
+    },
+    {
+      "candidate": "Ewan Horton",
+      "party": "Tower Hamlets Independents",
+      "votes": 324
+    },
+    {
+      "candidate": "Christian Holland",
+      "party": "Liberal Democrats",
+      "votes": 170
+    },
+    {
+      "candidate": "Kamrul Hashan",
+      "party": "Tower Hamlets Independents",
+      "votes": 138
+    },
+    {
+      "candidate": "Damian Johnson",
+      "party": "Liberal Democrats",
+      "votes": 129
+    },
+    {
+      "candidate": "Adam Gillman",
+      "party": "TUSC",
+      "votes": 37
+    }
+  ],
+  "Lansbury": [
+    {
+      "candidate": "Iqbal Hossain*",
+      "party": "Aspire",
+      "votes": 2251
+    },
+    {
+      "candidate": "Foysal Ahmed",
+      "party": "Aspire",
+      "votes": 2181
+    },
+    {
+      "candidate": "Abul Monsur",
+      "party": "Aspire",
+      "votes": 1882
+    },
+    {
+      "candidate": "Simon Levey",
+      "party": "Green",
+      "votes": 1020
+    },
+    {
+      "candidate": "Anwar Miah",
+      "party": "Labour",
+      "votes": 982
+    },
+    {
+      "candidate": "Shajia Sultana",
+      "party": "Labour",
+      "votes": 948
+    },
+    {
+      "candidate": "Mohammed Rob",
+      "party": "Labour",
+      "votes": 941
+    },
+    {
+      "candidate": "Daniel Smith",
+      "party": "Green",
+      "votes": 912
+    },
+    {
+      "candidate": "John Urpeth",
+      "party": "Green",
+      "votes": 785
+    },
+    {
+      "candidate": "Jahed Choudhury*",
+      "party": "Independent",
+      "votes": 614
+    },
+    {
+      "candidate": "Romna Begum",
+      "party": "Tower Hamlets Independents",
+      "votes": 601
+    },
+    {
+      "candidate": "Daniel Cunliffe",
+      "party": "Reform",
+      "votes": 588
+    },
+    {
+      "candidate": "Daniel Klop",
+      "party": "Reform",
+      "votes": 523
+    },
+    {
+      "candidate": "Leslie Pearce-Burden",
+      "party": "Reform",
+      "votes": 517
+    },
+    {
+      "candidate": "Kaisol Islam",
+      "party": "Tower Hamlets Independents",
+      "votes": 338
+    },
+    {
+      "candidate": "Stephen Charge",
+      "party": "Conservative",
+      "votes": 238
+    },
+    {
+      "candidate": "Douglas Oliver",
+      "party": "Conservative",
+      "votes": 201
+    },
+    {
+      "candidate": "Corie Hawkins",
+      "party": "Liberal Democrats",
+      "votes": 188
+    },
+    {
+      "candidate": "Charles Du Cane",
+      "party": "Liberal Democrats",
+      "votes": 147
+    },
+    {
+      "candidate": "Tangai Nyampingidza",
+      "party": "Conservative",
+      "votes": 137
+    },
+    {
+      "candidate": "Quintin Peppiatt",
+      "party": "Liberal Democrats",
+      "votes": 114
+    },
+    {
+      "candidate": "Pete Dickenson",
+      "party": "TUSC",
+      "votes": 85
+    }
+  ],
+  "Limehouse": [
+    {
+      "candidate": "David Edgar",
+      "party": "Labour Co-op",
+      "votes": 643
+    },
+    {
+      "candidate": "Jurgen Forster",
+      "party": "Green",
+      "votes": 402
+    },
+    {
+      "candidate": "Masudul Karim",
+      "party": "Aspire",
+      "votes": 389
+    },
+    {
+      "candidate": "Kellen Hadfield",
+      "party": "Reform",
+      "votes": 248
+    },
+    {
+      "candidate": "Mark Wolfisz",
+      "party": "Conservative",
+      "votes": 188
+    },
+    {
+      "candidate": "Jacob Sinkins",
+      "party": "Liberal Democrats",
+      "votes": 130
+    },
+    {
+      "candidate": "Jhahan Ali",
+      "party": "Tower Hamlets Independents",
+      "votes": 50
+    }
+  ],
+  "Mile End": [
+    {
+      "candidate": "Rougie Khanom",
+      "party": "Aspire",
+      "votes": 1879
+    },
+    {
+      "candidate": "Mohammed Mahmud",
+      "party": "Aspire",
+      "votes": 1795
+    },
+    {
+      "candidate": "Mohammed Mehdi",
+      "party": "Aspire",
+      "votes": 1775
+    },
+    {
+      "candidate": "Raihan Chowdhury",
+      "party": "Labour Co-op",
+      "votes": 1561
+    },
+    {
+      "candidate": "Asma Islam*",
+      "party": "Labour Co-op",
+      "votes": 1538
+    },
+    {
+      "candidate": "Martin Donkin",
+      "party": "Green",
+      "votes": 1512
+    },
+    {
+      "candidate": "Amin Rahman",
+      "party": "Green",
+      "votes": 1494
+    },
+    {
+      "candidate": "Leelu Ahmed*",
+      "party": "Labour Co-op",
+      "votes": 1429
+    },
+    {
+      "candidate": "Hytham Emam",
+      "party": "Green",
+      "votes": 1381
+    },
+    {
+      "candidate": "Shah Alam",
+      "party": "Tower Hamlets Independents",
+      "votes": 502
+    },
+    {
+      "candidate": "Iftakhar Ahmed",
+      "party": "Independent",
+      "votes": 375
+    },
+    {
+      "candidate": "Emilie Martin",
+      "party": "Reform",
+      "votes": 351
+    },
+    {
+      "candidate": "Alan Walker",
+      "party": "Reform",
+      "votes": 311
+    },
+    {
+      "candidate": "Christianah Agbabiaka",
+      "party": "Tower Hamlets Independents",
+      "votes": 230
+    },
+    {
+      "candidate": "Rupert Bawden",
+      "party": "Liberal Democrats",
+      "votes": 220
+    },
+    {
+      "candidate": "Catherine Burrows",
+      "party": "Liberal Democrats",
+      "votes": 219
+    },
+    {
+      "candidate": "Neil King",
+      "party": "Conservative",
+      "votes": 215
+    },
+    {
+      "candidate": "Nauman Iqbal",
+      "party": "Tower Hamlets Independents",
+      "votes": 212
+    },
+    {
+      "candidate": "Andrew Binns",
+      "party": "Conservative",
+      "votes": 207
+    },
+    {
+      "candidate": "Conor Hilliard",
+      "party": "Liberal Democrats",
+      "votes": 158
+    },
+    {
+      "candidate": "Israt Sawda",
+      "party": "Conservative",
+      "votes": 115
+    }
+  ],
+  "Poplar": [
+    {
+      "candidate": "Gulam Choudhury*",
+      "party": "Aspire",
+      "votes": 982
+    },
+    {
+      "candidate": "Zaglul Khan",
+      "party": "Labour",
+      "votes": 399
+    },
+    {
+      "candidate": "Farhad Ahmed",
+      "party": "Tower Hamlets Independents",
+      "votes": 356
+    },
+    {
+      "candidate": "Bethan Lant",
+      "party": "Green",
+      "votes": 297
+    },
+    {
+      "candidate": "Seb Downing",
+      "party": "Reform",
+      "votes": 161
+    },
+    {
+      "candidate": "Adrian Thompson",
+      "party": "Conservative",
+      "votes": 86
+    },
+    {
+      "candidate": "Alan Palmer",
+      "party": "Liberal Democrats",
+      "votes": 45
+    }
+  ],
+  "Shadwell": [
+    {
+      "candidate": "Mohammad Miah",
+      "party": "Aspire",
+      "votes": 1621
+    },
+    {
+      "candidate": "Rabina Khan",
+      "party": "Liberal Democrats",
+      "votes": 1393
+    },
+    {
+      "candidate": "Ana Miah*",
+      "party": "Aspire",
+      "votes": 1287
+    },
+    {
+      "candidate": "Muhi Mikdad",
+      "party": "Labour",
+      "votes": 1172
+    },
+    {
+      "candidate": "Naomi Goldberg",
+      "party": "Labour",
+      "votes": 626
+    },
+    {
+      "candidate": "Jarod Hardcastle",
+      "party": "Green",
+      "votes": 563
+    },
+    {
+      "candidate": "Gunther Jancke",
+      "party": "Green",
+      "votes": 541
+    },
+    {
+      "candidate": "Mohammed Sukur",
+      "party": "Tower Hamlets Independents",
+      "votes": 399
+    },
+    {
+      "candidate": "Mark Mapstone",
+      "party": "Reform",
+      "votes": 177
+    },
+    {
+      "candidate": "Iain Tennant",
+      "party": "Reform",
+      "votes": 129
+    },
+    {
+      "candidate": "Darly Stafford",
+      "party": "Conservative",
+      "votes": 116
+    },
+    {
+      "candidate": "Kwame Poku",
+      "party": "Conservative",
+      "votes": 74
+    }
+  ],
+  "Spitalfields & Banglatown": [
+    {
+      "candidate": "Faysal Ahmed",
+      "party": "Aspire",
+      "votes": 1237
+    },
+    {
+      "candidate": "Suluk Ahmed*",
+      "party": "Aspire",
+      "votes": 1148
+    },
+    {
+      "candidate": "Shad Chowdhury",
+      "party": "Labour",
+      "votes": 1045
+    },
+    {
+      "candidate": "Kabir Hussain*",
+      "party": "Independent",
+      "votes": 849
+    },
+    {
+      "candidate": "Rumana Azad",
+      "party": "Labour",
+      "votes": 727
+    },
+    {
+      "candidate": "Daniele Pollicino",
+      "party": "Green",
+      "votes": 684
+    },
+    {
+      "candidate": "Maggie Sawant",
+      "party": "Green",
+      "votes": 616
+    },
+    {
+      "candidate": "Nurul Maleque",
+      "party": "Tower Hamlets Independents",
+      "votes": 489
+    },
+    {
+      "candidate": "Cristina Cecchinato",
+      "party": "Reform",
+      "votes": 127
+    },
+    {
+      "candidate": "Gareth Shelton",
+      "party": "Liberal Democrats",
+      "votes": 126
+    },
+    {
+      "candidate": "Robert Adderley",
+      "party": "Liberal Democrats",
+      "votes": 117
+    },
+    {
+      "candidate": "Helen Biebuyck",
+      "party": "Reform",
+      "votes": 112
+    },
+    {
+      "candidate": "Mohammed Miah",
+      "party": "Conservative",
+      "votes": 84
+    },
+    {
+      "candidate": "Terrel Mollel",
+      "party": "Conservative",
+      "votes": 79
+    }
+  ],
+  "St Dunstan's": [
+    {
+      "candidate": "Shafiq Islam",
+      "party": "Aspire",
+      "votes": 1661
+    },
+    {
+      "candidate": "Shenaly Miah",
+      "party": "Aspire",
+      "votes": 1630
+    },
+    {
+      "candidate": "Shahanur Khan",
+      "party": "Labour",
+      "votes": 1486
+    },
+    {
+      "candidate": "Stephanie Golder",
+      "party": "Green",
+      "votes": 851
+    },
+    {
+      "candidate": "Victoria Obaze",
+      "party": "Labour",
+      "votes": 709
+    },
+    {
+      "candidate": "Flo Zwiers",
+      "party": "Green",
+      "votes": 643
+    },
+    {
+      "candidate": "Muhammed Kamruzzaman",
+      "party": "Tower Hamlets Independents",
+      "votes": 347
+    },
+    {
+      "candidate": "Stefano Farina",
+      "party": "Reform",
+      "votes": 239
+    },
+    {
+      "candidate": "Owen Murphy",
+      "party": "Reform",
+      "votes": 217
+    },
+    {
+      "candidate": "Mohammad Islam",
+      "party": "Tower Hamlets Independents",
+      "votes": 183
+    },
+    {
+      "candidate": "Alexander Gallagher",
+      "party": "Liberal Democrats",
+      "votes": 112
+    },
+    {
+      "candidate": "Gemma Larter",
+      "party": "Conservative",
+      "votes": 92
+    },
+    {
+      "candidate": "Quentin Croft",
+      "party": "Liberal Democrats",
+      "votes": 90
+    },
+    {
+      "candidate": "Olivier Abelhauser",
+      "party": "Conservative",
+      "votes": 84
+    }
+  ],
+  "St Katharine's & Wapping": [
+    {
+      "candidate": "Abdal Ullah*",
+      "party": "Labour",
+      "votes": 1303
+    },
+    {
+      "candidate": "Victoria Fleur Lupton",
+      "party": "Labour",
+      "votes": 1205
+    },
+    {
+      "candidate": "Guy Benson",
+      "party": "Liberal Democrats",
+      "votes": 869
+    },
+    {
+      "candidate": "Seb Villars",
+      "party": "Liberal Democrats",
+      "votes": 772
+    },
+    {
+      "candidate": "Mareva De Coninck Moyou",
+      "party": "Green",
+      "votes": 598
+    },
+    {
+      "candidate": "Jolley Harrison Gosnold",
+      "party": "Green",
+      "votes": 585
+    },
+    {
+      "candidate": "Mahbub Alam",
+      "party": "Aspire",
+      "votes": 509
+    },
+    {
+      "candidate": "Rafique Uddin",
+      "party": "Aspire",
+      "votes": 501
+    },
+    {
+      "candidate": "Pete Holt",
+      "party": "Reform",
+      "votes": 363
+    },
+    {
+      "candidate": "Alex Brookes",
+      "party": "Conservative",
+      "votes": 357
+    },
+    {
+      "candidate": "Jane Elizabeth Emmerson",
+      "party": "Conservative",
+      "votes": 333
+    },
+    {
+      "candidate": "John Charles Hilary Wilkes",
+      "party": "Reform",
+      "votes": 311
+    },
+    {
+      "candidate": "Aysha Burton",
+      "party": "TUSC",
+      "votes": 57
+    },
+    {
+      "candidate": "Salim Malik",
+      "party": "Tower Hamlets Independents",
+      "votes": 43
+    },
+    {
+      "candidate": "Mohammad Munshat Habib Chowdhury",
+      "party": "Tower Hamlets Independents",
+      "votes": 38
+    }
+  ],
+  "Stepney Green": [
+    {
+      "candidate": "Sabina Akhtar*",
+      "party": "Aspire",
+      "votes": 1940
+    },
+    {
+      "candidate": "Abdul Ali*",
+      "party": "Aspire",
+      "votes": 1784
+    },
+    {
+      "candidate": "Volker Gulde",
+      "party": "Green",
+      "votes": 698
+    },
+    {
+      "candidate": "Sanu Miah",
+      "party": "Labour",
+      "votes": 693
+    },
+    {
+      "candidate": "Roderick McGlynn",
+      "party": "Green",
+      "votes": 679
+    },
+    {
+      "candidate": "Nanziba Nasima",
+      "party": "Labour",
+      "votes": 574
+    },
+    {
+      "candidate": "Aminur Khan",
+      "party": "Liberal Democrats",
+      "votes": 494
+    },
+    {
+      "candidate": "Anthony Newland",
+      "party": "Reform",
+      "votes": 206
+    },
+    {
+      "candidate": "Karen Biebuyck",
+      "party": "Reform",
+      "votes": 203
+    },
+    {
+      "candidate": "Mohammed Rahman",
+      "party": "Tower Hamlets Independents",
+      "votes": 136
+    },
+    {
+      "candidate": "Simon Tunnicliffe",
+      "party": "Liberal Democrats",
+      "votes": 115
+    },
+    {
+      "candidate": "Freddy Simpson",
+      "party": "Conservative",
+      "votes": 114
+    },
+    {
+      "candidate": "Hassan Diriye",
+      "party": "Tower Hamlets Independents",
+      "votes": 106
+    },
+    {
+      "candidate": "Pankaj Goyal",
+      "party": "Conservative",
+      "votes": 82
+    }
+  ],
+  "Weavers": [
+    {
+      "candidate": "Kabir Ahmed*",
+      "party": "Aspire",
+      "votes": 1265
+    },
+    {
+      "candidate": "Amina Ali",
+      "party": "Labour",
+      "votes": 1156
+    },
+    {
+      "candidate": "Sara Petrai",
+      "party": "Green",
+      "votes": 1124
+    },
+    {
+      "candidate": "Rakib Ahmed",
+      "party": "Green",
+      "votes": 1063
+    },
+    {
+      "candidate": "Abdul Mahboob",
+      "party": "Aspire",
+      "votes": 947
+    },
+    {
+      "candidate": "Dilwar Hussan",
+      "party": "Labour",
+      "votes": 799
+    },
+    {
+      "candidate": "Judy Corstjens",
+      "party": "Reform",
+      "votes": 271
+    },
+    {
+      "candidate": "Imran Hossain",
+      "party": "Tower Hamlets Independents",
+      "votes": 171
+    },
+    {
+      "candidate": "Elliott Weaver",
+      "party": "Conservative",
+      "votes": 151
+    },
+    {
+      "candidate": "Edward Long",
+      "party": "Liberal Democrats",
+      "votes": 137
+    },
+    {
+      "candidate": "Abdullah Nazimuddin",
+      "party": "Tower Hamlets Independents",
+      "votes": 125
+    },
+    {
+      "candidate": "Joseph Brazier",
+      "party": "Liberal Democrats",
+      "votes": 123
+    },
+    {
+      "candidate": "Sherrill Evarschi",
+      "party": "Conservative",
+      "votes": 123
+    },
+    {
+      "candidate": "Abul Zubair",
+      "party": "Independent",
+      "votes": 122
+    }
+  ],
+  "Whitechapel": [
+    {
+      "candidate": "Shafi Ahmed*",
+      "party": "Aspire",
+      "votes": 2109
+    },
+    {
+      "candidate": "Kamrul Hussain*",
+      "party": "Aspire",
+      "votes": 1908
+    },
+    {
+      "candidate": "Abulkashem Helal",
+      "party": "Aspire",
+      "votes": 1802
+    },
+    {
+      "candidate": "Faroque Ahmed*",
+      "party": "Labour",
+      "votes": 1247
+    },
+    {
+      "candidate": "Phoebe Gill",
+      "party": "Green",
+      "votes": 1063
+    },
+    {
+      "candidate": "Shah Ameen",
+      "party": "Labour",
+      "votes": 1059
+    },
+    {
+      "candidate": "Ed Rhodes",
+      "party": "Green",
+      "votes": 892
+    },
+    {
+      "candidate": "Karissa Singh",
+      "party": "Green",
+      "votes": 867
+    },
+    {
+      "candidate": "Kamrun Shajahan",
+      "party": "Labour",
+      "votes": 700
+    },
+    {
+      "candidate": "Mohammed Hannan",
+      "party": "Liberal Democrats",
+      "votes": 273
+    },
+    {
+      "candidate": "Md. Hossain",
+      "party": "Independent",
+      "votes": 250
+    },
+    {
+      "candidate": "Debbie Kirk",
+      "party": "Conservative",
+      "votes": 214
+    },
+    {
+      "candidate": "Warren Halpin",
+      "party": "Reform",
+      "votes": 199
+    },
+    {
+      "candidate": "Md Rahman",
+      "party": "Tower Hamlets Independents",
+      "votes": 186
+    },
+    {
+      "candidate": "Rick Robinson",
+      "party": "Reform",
+      "votes": 179
+    },
+    {
+      "candidate": "Garry Ramsden",
+      "party": "Conservative",
+      "votes": 178
+    },
+    {
+      "candidate": "Sonia Mironenko",
+      "party": "Conservative",
+      "votes": 170
+    },
+    {
+      "candidate": "Wei Qu",
+      "party": "Liberal Democrats",
+      "votes": 165
+    },
+    {
+      "candidate": "Michael Robinson",
+      "party": "Liberal Democrats",
+      "votes": 162
+    },
+    {
+      "candidate": "Md Akbor",
+      "party": "Tower Hamlets Independents",
+      "votes": 133
+    },
+    {
+      "candidate": "Md Bashir",
+      "party": "Tower Hamlets Independents",
+      "votes": 119
+    },
+    {
+      "candidate": "Hugo Pierre",
+      "party": "TUSC",
+      "votes": 72
+    }
+  ]
+}
